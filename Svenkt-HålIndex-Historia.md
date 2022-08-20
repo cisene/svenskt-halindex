@@ -1,6 +1,6 @@
 # Svenkt Hålindex - Historia
 
-Svenskt Hålindex benämns ibland som SHI.
+Svenskt Hålindex benämns ibland som SHI. Nedan nämns webplatser eller personer som varit direkt bidragande eller på annat sätt bidragit till SHI's väl och ve genom tiderna.
 
 
 
@@ -24,16 +24,28 @@ Dessa sidor publicerades eller modifierades senast den 21:a Maj 2006 baserat på
 
 
 
+## SLU - Sveriges Lantbruks Universitets webplats, cirka December 2007
+
+> Senaste nytt p&aring; Markinventeringens webbplats 2007
+>
+> 2007-10-11
+>
+> **Svenskt hålindex (SHI)**
+> Det är ingen slump att det finns kopplingar mellan "Ståndortsindex enligt höjdbonitering (SIH)" och "Svenskt hålindex (SHI)", samt mellan "Institutionen för skogstaxering" (= Riksskogstaxeringen, sorterar nu under Resurshushållning) och "Institutionen för Rikshålsindexering".
+> Riksskogstaxeringen färdas varje år med sina hyrda "BioPower-bilar" ca 50000 mil (över 12 varv runt jorden) inom Sveriges gränser och hinner då uppleva orter av de flesta slag. Ibland kan det bli diskussion om den ort man befinner sig på är en trist håla eller inte. Då kan det vara tryggt att veta att det finns ett vetenskapligt system för att klassificera svenska hålor. Detta system är utarbetat av fr.a. tidigare SLU-medarbetaren **Börje Drakenberg**, och grundar sig på observationer från de många småorter där han varit å arbetets vägnar under många år. 2003 förärades f.ö. Börje med Föreningen Skogens guldkvist, läs mer om detta och lite bakgrund [här](https://www.skogen.se/foreningen/vem-fortjanar-en-medalj/motiveringar/2003-ars-motiveringar).
+> Nå, åter till väsentligheterna - [Svenskt hålindex (SHI) 2004](./SHI04.pdf) hittar du här (pdf-fil 40 kB). En betydligt äldre utskrift av systemet finner du på [SHI](http://www.ehrenstrom.se/Halindex1.html) (html-sida).
+>
+> ...
+
+Länkarna justerade.
+
+
+
 ## Övriga
 
 Flera andra sajter har haft materialet tillgängligt men de flesta har nu försvunnit, några att nämna:
 
-- yttermera.se
+* yttermera.se
 
 * bjorneborg.org
 
-* http://www-markinventeringen.slu.se/pdf/SHI04.pdf
-
-  * Denna finns länkad här [SHI04.pdf](./SHI04.pdf)
-
-  
