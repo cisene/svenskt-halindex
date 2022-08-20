@@ -16,6 +16,24 @@ Svenskt hålindex, Institutionen för Rikshålindex publiceras någon gång 1992
 
 
 
+## Björn Ahlsén
+
+Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 2003](./pdf/Nr8-2003.pdf) som berör Svenskt HålIndex och beräknar även index för några av orterna i kommunen.
+
+> Redaktörn har naturligtvis applicerat systemet på några av den egna kommunens orter och har kommit fram till följande mycket intressanta slutsummor:
+> | Ort        | Poäng |
+> | ---------- | ----- |
+> | Norrtälje  | -2    |
+> | Rimbo      | 7     |
+> | Hallstavik | 8     |
+> | Älmsta     | 8     |
+> | Åtvidaberg | 7     |
+>
+> Alltså: Rimbo är, enligt högst vetenskapliga beräkningar, grundande på Stadsmiljörådets anvisningar, per definition en riktig håla. Vilket skulle bevisas.
+> Hallstavik och Älmsta än mer. För att bevisa undertecknads oförvitlighet har även Åtvidaberg tagits med som jämförelseobjekt, och resultatet visar att redaktörn inte har så mycket att yvas över, med sitt ursprung i en riktigt genuin svensk bruks-håla!
+
+
+
 ## Anders Ehrenström
 
 På [ehrenstrom.se](https://ehrenstrom.se/) kan information hittas i nära ursprungsform men är citerad från Börje Drakenbergs ursprungliga Svenskt HålIndex.
@@ -33,7 +51,7 @@ Dessa sidor publicerades eller modifierades senast den 21:a Maj 2006 baserat på
 > **Svenskt hålindex (SHI)**
 > Det är ingen slump att det finns kopplingar mellan "Ståndortsindex enligt höjdbonitering (SIH)" och "Svenskt hålindex (SHI)", samt mellan "Institutionen för skogstaxering" (= Riksskogstaxeringen, sorterar nu under Resurshushållning) och "Institutionen för Rikshålsindexering".
 > Riksskogstaxeringen färdas varje år med sina hyrda "BioPower-bilar" ca 50000 mil (över 12 varv runt jorden) inom Sveriges gränser och hinner då uppleva orter av de flesta slag. Ibland kan det bli diskussion om den ort man befinner sig på är en trist håla eller inte. Då kan det vara tryggt att veta att det finns ett vetenskapligt system för att klassificera svenska hålor. Detta system är utarbetat av fr.a. tidigare SLU-medarbetaren **Börje Drakenberg**, och grundar sig på observationer från de många småorter där han varit å arbetets vägnar under många år. 2003 förärades f.ö. Börje med Föreningen Skogens guldkvist, läs mer om detta och lite bakgrund [här](https://www.skogen.se/foreningen/vem-fortjanar-en-medalj/motiveringar/2003-ars-motiveringar).
-> Nå, åter till väsentligheterna - [Svenskt hålindex (SHI) 2004](./SHI04.pdf) hittar du här (pdf-fil 40 kB). En betydligt äldre utskrift av systemet finner du på [SHI](http://www.ehrenstrom.se/Halindex1.html) (html-sida).
+> Nå, åter till väsentligheterna - [Svenskt hålindex (SHI) 2004](./pdf/SHI04.pdf) hittar du här (pdf-fil 40 kB). En betydligt äldre utskrift av systemet finner du på [SHI](http://www.ehrenstrom.se/Halindex1.html) (html-sida).
 >
 > ...
 
