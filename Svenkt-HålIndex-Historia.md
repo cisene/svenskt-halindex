@@ -31,3 +31,9 @@ Flera andra sajter har haft materialet tillgängligt men de flesta har nu försv
 - yttermera.se
 
 * bjorneborg.org
+
+* http://www-markinventeringen.slu.se/pdf/SHI04.pdf
+
+  * Denna finns länkad här [SHI04.pdf](./SHI04.pdf)
+
+  
