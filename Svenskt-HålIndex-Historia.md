@@ -18,7 +18,7 @@ Svenskt hålindex, Institutionen för Rikshålindex publiceras någon gång 1992
 
 ## Björn Ahlsén
 
-Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 2003](./pdf/Nr8-2003.pdf) som berör Svenskt HålIndex och beräknar även index för några av orterna i kommunen.
+Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 2003](./pdf/Nr8-2003.pdf) (högst upp på vänster sida 3) som berör Svenskt HålIndex och beräknar även index för några av orterna i kommunen.
 
 > Redaktörn har naturligtvis applicerat systemet på några av den egna kommunens orter och har kommit fram till följande mycket intressanta slutsummor:
 > | Ort        | Poäng |
@@ -39,6 +39,15 @@ Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 
 På [ehrenstrom.se](https://ehrenstrom.se/) kan information hittas i nära ursprungsform men är citerad från Börje Drakenbergs ursprungliga Svenskt HålIndex.
 
 Dessa sidor publicerades eller modifierades senast den 21:a Maj 2006 baserat på web servern tidstämpel "Sun, 21 May 2006 17:50:15 GMT" och kan betraktas som senast gällande.
+
+
+
+## Lotti Jilsmo
+
+Lotti är redaktör och skriver i föreningsbladet *Ung på Landsbygden* - [riktigt partisk landsbygdspropaganda vol.2](./pdf/u-land2forwebben.pdf) på sidan 16 och 17 fredagen den 25 maj 2007 om Svenskt HålIndex. Yttermera.se anges som källa på sidan 16, på sidan 17 görs indexeringar av små orter av eventdeltagare.
+
+
+
 
 
 
