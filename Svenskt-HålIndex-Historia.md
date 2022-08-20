@@ -16,6 +16,16 @@ Svenskt hålindex, Institutionen för Rikshålindex publiceras någon gång 1992
 
 
 
+
+
+## Flashback News Agency
+
+I [FNA nummer 116](https://www.flashback.se/fna/116), årgång 5 nummer 2 som publiceras 16 februari 1999 omnämns Svenskt Hålindex i stycket 7.05 samt återges i text.
+
+
+
+
+
 ## Björn Ahlsén
 
 Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 2003](./pdf/Nr8-2003.pdf) (högst upp på vänster sida 3) som berör Svenskt HålIndex och beräknar även index för några av orterna i kommunen.
@@ -34,6 +44,8 @@ Björn är 2003 redaktör på *Kulturbulletinen Kultur-i-Roslagen* i [Nummer 8, 
 
 
 
+
+
 ## Anders Ehrenström
 
 På [ehrenstrom.se](https://ehrenstrom.se/) kan information hittas i nära ursprungsform men är citerad från Börje Drakenbergs ursprungliga Svenskt HålIndex.
@@ -42,9 +54,13 @@ Dessa sidor publicerades eller modifierades senast den 21:a Maj 2006 baserat på
 
 
 
+
+
 ## Lotti Jilsmo
 
 Lotti är redaktör och skriver i föreningsbladet *Ung på Landsbygden* - [riktigt partisk landsbygdspropaganda vol.2](./pdf/u-land2forwebben.pdf) på sidan 16 och 17 fredagen den 25 maj 2007 om Svenskt HålIndex. Yttermera.se anges som källa på sidan 16, på sidan 17 görs indexeringar av små orter av eventdeltagare.
+
+
 
 
 
