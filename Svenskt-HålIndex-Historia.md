@@ -86,9 +86,9 @@ Länkarna justerade.
 
 ## Övriga
 
-Flera andra sajter har haft materialet tillgängligt men de flesta har nu försvunnit, några att nämna:
+Flera andra sajter har haft materialet tillgängligt men de flesta har nu försvunnit, eller refererat till Svenskt Hålindex, några att nämna:
 
 * yttermera.se
-
 * bjorneborg.org
+* cornucopia.se
 
