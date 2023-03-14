@@ -1,0 +1,311 @@
+meta:
+  title: Falköping
+  kommunkod: '1499'
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+skolor:
+
+- name: Ållebergsgymnasiet B
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '56737496'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ållebergsgymnasiet gymnasiesär
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '29374799'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ållebergsgymnasiet A
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '17008320'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Specialpedagogiskt centrum
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '49297752'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vårkullens skolveckohem
+  PeOrgNr: '5566086756'
+  Skolenhetskod: '43911053'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centrum för flerspråkighet
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '95867611'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter 2
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '46626063'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ållebergsgymnasiet C
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '88850910'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ållebergsgymnasiet E
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '93939982'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter 1
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '72392339'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torbjörntorps förskola och fritidshem Gottepåsen
+  PeOrgNr: '7164105434'
+  Skolenhetskod: '74671442'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsarpsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '72615710'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dotorpsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '91138242'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flobyskolan 7-9
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '54765026'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flobyskolan F-6
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '54957877'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gudhemsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '48695990'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odensbergsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '12985644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vindängen
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '43435547'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vindängens grundsärskola
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '12367572'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter 3
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '18509022'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Broddetorpsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '69493590'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsle Friskola
+  PeOrgNr: '7696361646'
+  Skolenhetskod: '26665746'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid i Falköping
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '48252217'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högstadium Centrum sär
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '20272897'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Förskolan Klinten fritidshem
+  PeOrgNr: '7696022222'
+  Skolenhetskod: '82148244'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vartoftaskolan F-6
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '93035626'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åttagårdsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '76578072'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högstadium Centrum
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '17911537'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gustaf Dalénskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '43269172'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mössebergsskolan
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '74695983'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vartoftaskolan 7-9
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '96973204'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kinnarpsskolan 7-9
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '51079534'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centralskolan F-6
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '46358943'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kinnarpsskolan F-6
+  PeOrgNr: '2120001744'
+  Skolenhetskod: '15357005'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:15.5238196+01:00'
+  latitude: null
+  longitude: null

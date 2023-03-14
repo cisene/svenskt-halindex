@@ -1,0 +1,203 @@
+meta:
+  title: Eksjö
+  kommunkod: 0686
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+skolor:
+
+- name: Linnéskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '87335241'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: EksjöVux, komvux
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '28164731'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: EksjöVux, SFI
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '75734238'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: EksjöVux, Särvux
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '44889527'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nifsarpsskolan fri
+  PeOrgNr: '5565848537'
+  Skolenhetskod: '44240250'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästängsskolan A
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '48457931'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ingatorpsskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '65465842'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästängsskolan B
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '98124174'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästängsskolans grundsärskola
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '75498560'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grevhagsskolans grundsärskola
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '28380523'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eksjö Gymnasium 2
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '88259298'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eksjö Gymnasiesärskola
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '10388034'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eksjö Gymnasium 3
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '73098153'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furulundsskolan A
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '76775667'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grevhagsskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '70675077'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eksjö Gymnasium 1
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '34153869'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Höredaskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '14664038'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Furulundsskolan '
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '48108874'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elevhälsan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '82651319'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Broarps skola
+  PeOrgNr: '5564778958'
+  Skolenhetskod: '30452569'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hultskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '95090544'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norrtullskolan
+  PeOrgNr: '2120000589'
+  Skolenhetskod: '70174655'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:26.9769952+01:00'
+  latitude: null
+  longitude: null

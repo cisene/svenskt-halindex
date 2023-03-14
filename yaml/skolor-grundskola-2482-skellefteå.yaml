@@ -1,0 +1,590 @@
+meta:
+  title: Skellefteå
+  kommunkod: '2482'
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+skolor:
+
+- name: Bodbysunds miljöskola
+  PeOrgNr: '7696017685'
+  Skolenhetskod: '58219202'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: VUX, SFI
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '88275673'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björnåkersskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '15720147'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: VUX
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '37143729'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: VUX, särvux
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '70471219'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet Hammarängen
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '24653673'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 1
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '78821574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 3
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '99620228'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 5
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '70815774'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 3
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '90505849'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 4
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '83880861'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 5
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '71099568'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 6
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '51145165'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Naturbruksgymnasiet i Burträsk
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '86319615'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vebomarks fritidshem
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '60086441'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Skellefteå
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '92621428'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 4
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '42440084'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 6
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '21080571'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet Hammarängen 2
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '20942261'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furuskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '62717625'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lövångersskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '87194036'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålslärare
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '14609593'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergsbyskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '66002503'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 2
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '89780376'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norrhammarskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '20566987'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesgymnasiet Skellefteå
+  PeOrgNr: '5566139290'
+  Skolenhetskod: '97835550'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Floraskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '81992480'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bolidenskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '39160736'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bureskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '97784361'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Byskeskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '23992844'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kågeskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '67809657'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Morö backe skola
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '48983548'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central grundsärskola Lejonström
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '85668557'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sörböleskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '89661489'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ursviksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '15716434'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Örjanskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '42247223'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Auraskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '32952944'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bygdsiljumsskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '97072671'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Drängsmarksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '33502848'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ersmarksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '75972486'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gummarksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '29124242'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kusmarksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '58425006'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hjoggböleskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '81715530'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Medleskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '13331693'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunnanåskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '12558459'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tuböleskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '45749845'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ostviksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '30772723'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skråmträskskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '27115850'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yttre Ursviksskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '71675943'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stackgrönnanskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '30012770'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bodbysunds fritidshem
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '47119366'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandfors fritidshem
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '86521092'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: IES International School Skellefteå
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '87867210'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skellefteå fjärrgymnasium
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '28284938'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkskolan
+  PeOrgNr: '8947021443'
+  Skolenhetskod: '65417636'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lejonströmsskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '53655678'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldergymnasiet 1
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '58200871'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Anderstorpsgymnasiet 2
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '70408763'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vebomarks Byaskola
+  PeOrgNr: '8947019397'
+  Skolenhetskod: '81215860'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bruksskolan
+  PeOrgNr: '8947021443'
+  Skolenhetskod: '90056405'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Guldstadsgymnasiet i Skellefteå
+  PeOrgNr: '5569173635'
+  Skolenhetskod: '90990441'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kanalskolan
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '85015577'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Praktiska Gymnasiet Skellefteå
+  PeOrgNr: '5562575786'
+  Skolenhetskod: '87303004'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesvux
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '23766875'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjungande dalens skola
+  PeOrgNr: '2120002643'
+  Skolenhetskod: '54562453'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:25.2205213+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,212 @@
+meta:
+  title: Upplands Väsby
+  kommunkod: '0114'
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+skolor:
+
+- name: Bollstanäs skola
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '74174879'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Språk- och mottagningsenheten
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '20574219'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väsby Nya Gymnasium
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '20855811'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittra Väsby
+  PeOrgNr: '5564586716'
+  Skolenhetskod: '24374886'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Breddenskolan
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '55512387'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Runby skola
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '77624936'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Upplands Väsby
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '24402537'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grimstaskolan
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '44227469'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väsby Vuxenutbildning SFI
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '25315338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väsby gymn Vuxenutb. Särvux
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '63811572'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid Sandbergska
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '97762139'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '31313773'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nordanskolan
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '26480342'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södervikskolan
+  PeOrgNr: '5567220347'
+  Skolenhetskod: '49021135'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väsby skola
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '31018677'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Engelska skolan Upplands Väsby
+  PeOrgNr: '8160005966'
+  Skolenhetskod: '80509560'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sverigefinska sk, Uppl Väsby
+  PeOrgNr: '8160005966'
+  Skolenhetskod: '68403656'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärande Grundskola Fresta
+  PeOrgNr: '5567243547'
+  Skolenhetskod: '62078083'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärande Grundskola Oden
+  PeOrgNr: '5567243547'
+  Skolenhetskod: '19733028'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärande Grundskola Magneten
+  PeOrgNr: '5567243547'
+  Skolenhetskod: '81453817'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärande Grundskola Vik
+  PeOrgNr: '5567243547'
+  Skolenhetskod: '60211862'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesgymnasium Väsby
+  PeOrgNr: '5568089246'
+  Skolenhetskod: '54882637'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjumilaskolan
+  PeOrgNr: '2120000019'
+  Skolenhetskod: '63150475'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T20:03:52.8547527+01:00'
+  latitude: null
+  longitude: null

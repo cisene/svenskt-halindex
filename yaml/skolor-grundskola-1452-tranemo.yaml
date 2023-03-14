@@ -1,0 +1,158 @@
+meta:
+  title: Tranemo
+  kommunkod: '1452'
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+skolor:
+
+- name: Tranängskolan F-6
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '54601339'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalstorpskolan
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '87422942'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grimsåsskolan
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '82023614'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Tranemo
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '88846218'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tranängskolan 7-9
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '33759766'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Tranemo Gymnasiesärskola '
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '33070165'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tranemo gymnasieskola
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '60513602'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsduvan Mossebo
+  PeOrgNr: '7164478328'
+  Skolenhetskod: '76346579'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tranemo gymnasieskola, komvux
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '98249908'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tranemo gymnasieskola, SFI
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '43814639'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björnens Fritidshem
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '39985444'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungbackens fritidshem
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '78108063'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Regnbågens fritidshem
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '79930788'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sörgårdens fritidshem
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '11658453'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsalyckans fritidshem
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '20657642'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Limmaredskolan
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '88207548'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null
+
+- name: Länghemskolan
+  PeOrgNr: '2120001462'
+  Skolenhetskod: '77589919'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:11.0860799+01:00'
+  latitude: null
+  longitude: null

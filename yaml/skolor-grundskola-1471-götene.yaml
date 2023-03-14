@@ -1,0 +1,77 @@
+meta:
+  title: Götene
+  kommunkod: '1471'
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+skolor:
+
+- name: Källby gård
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '77691159'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Liljestensskolan 1
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '34900938'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungsbackenskolan
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '59512837'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lunden
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '38081093'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästgårdsskolan
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '60697764'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olinsgymnasiet i Götene
+  PeOrgNr: '5569998932'
+  Skolenhetskod: '77718188'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hällekisskolan
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '62884539'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lundabyn
+  PeOrgNr: '2120001652'
+  Skolenhetskod: '24771373'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:33.8449815+01:00'
+  latitude: null
+  longitude: null

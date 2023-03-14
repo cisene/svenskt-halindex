@@ -1,0 +1,95 @@
+meta:
+  title: Degerfors
+  kommunkod: '1862'
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+skolor:
+
+- name: Stora Vallaskolan
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '96969231'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '22403748'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Degerforsgymnasiet
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '10924758'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bruksskolan
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '10302576'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '47814121'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömtorpsskolan
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '45554806'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svartå skola
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '93324945'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åtorps skola
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '67016830'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vågen 1-6
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '58016528'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vågen 7-9
+  PeOrgNr: '2120001934'
+  Skolenhetskod: '35749151'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:44.5265979+01:00'
+  latitude: null
+  longitude: null

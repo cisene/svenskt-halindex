@@ -1,0 +1,176 @@
+meta:
+  title: Hallsberg
+  kommunkod: '1861'
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+skolor:
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '65755097'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Folkasboskolan
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '99707554'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '21726354'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning SFI
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '41822849'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredriksbergskolan
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '66493604'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östansjö skola
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '62839697'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 6
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '78730011'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 1
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '70969714'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshem Hjortkvarn
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '11832546'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 3
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '22752398'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 5
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '71922787'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 7
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '74148070'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Långängskolan
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '17140131'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sköllersta skola
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '61946431'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Transtenskolan
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '63503591'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning Särvux
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '17985863'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 4
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '68734112'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stocksätterskolan
+  PeOrgNr: '2120001926'
+  Skolenhetskod: '30150909'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan 2
+  PeOrgNr: '2220001180'
+  Skolenhetskod: '85003442'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:11:34.1907234+01:00'
+  latitude: null
+  longitude: null

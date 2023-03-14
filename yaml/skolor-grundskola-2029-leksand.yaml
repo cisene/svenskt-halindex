@@ -1,0 +1,113 @@
+meta:
+  title: Leksand
+  kommunkod: '2029'
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+skolor:
+
+- name: Leksands gymnasium
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '44417214'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Profilskolan Excel
+  PeOrgNr: '5590306964'
+  Skolenhetskod: '38368827'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gärde skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '37594297'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åkerö skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '30471270'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '86131355'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tällberg skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '95726294'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Siljansnäs skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '46265060'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sammilsdalskolan F-9
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '61834375'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Insjöns skola
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '62927602'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Leksand
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '92612746'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen Leksand-Rättvik
+  PeOrgNr: '2120002163'
+  Skolenhetskod: '71655983'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null
+
+- name: Banérskolan
+  PeOrgNr: '5590987201'
+  Skolenhetskod: '89749001'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:15:32.1816407+01:00'
+  latitude: null
+  longitude: null

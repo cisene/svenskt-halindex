@@ -1,0 +1,131 @@
+meta:
+  title: Sunne
+  kommunkod: '1766'
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+skolor:
+
+- name: Fryxellska skolan
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '25636648'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunne Gymnasieskola / Södra Viken
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '82888663'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gräsmarks skola
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '19248047'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klättenskolan
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '14125620'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lysviks skola
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '50456203'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästbols skola
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '25927543'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skäggebergsskolan
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '59141134'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunne Gymnasieskola / Broby
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '66273269'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekeby skola
+  PeOrgNr: '8740013381'
+  Skolenhetskod: '12137105'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunne gymnasieskola, SFI
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '66839765'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunne lärcenter, vuxenutbildning
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '73604151'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svensby skola
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '18644192'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särvux
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '24444171'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra skolan
+  PeOrgNr: '2120001843'
+  Skolenhetskod: '84959876'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:59.0295547+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,77 @@
+meta:
+  title: Surahammar
+  kommunkod: '1907'
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+skolor:
+
+- name: Viljan
+  PeOrgNr: '5567777775'
+  Skolenhetskod: '23384476'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Im-enheten
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '41600127'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bäckhammarskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '42583411'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hammarskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '74582871'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nytorpsskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '10017830'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Starbäcksskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '39566281'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tuppkärrsskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '59858754'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null
+
+- name: Virsboskolan
+  PeOrgNr: '2120002031'
+  Skolenhetskod: '36302522'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:28.0666635+01:00'
+  latitude: null
+  longitude: null

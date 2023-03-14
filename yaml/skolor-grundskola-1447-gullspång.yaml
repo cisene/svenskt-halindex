@@ -1,0 +1,68 @@
+meta:
+  title: Gullspång
+  kommunkod: '1447'
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+skolor:
+
+- name: Gullstensskolan åk 7-9
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '89624871'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Introduktionsprogrammet Språkintroduktion
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '42892954'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcentrum, SFI
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '76356633'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullstensskolan åk F-6
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '41746496'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Regnbågsskolan
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '44509207'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcentrum, komvux
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '41598379'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcentrum, särvux
+  PeOrgNr: '2120001637'
+  Skolenhetskod: '90344799'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:00.7318781+01:00'
+  latitude: null
+  longitude: null

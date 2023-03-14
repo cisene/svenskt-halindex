@@ -1,0 +1,149 @@
+meta:
+  title: Hedemora
+  kommunkod: '2083'
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+skolor:
+
+- name: Dormsjöskolan gymnasiesär
+  PeOrgNr: '5567692081'
+  Skolenhetskod: '62434701'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olympica
+  PeOrgNr: '5565938700'
+  Skolenhetskod: '87686617'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Annaskolan
+  PeOrgNr: '8820007485'
+  Skolenhetskod: '95227669'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Smedby skola F-6
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '48205003'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jonsboskolan F-6
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '88099326'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dormsjöskolan/grundskola
+  PeOrgNr: '5567692081'
+  Skolenhetskod: '36022766'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vasaskolan 7-9
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '35494110'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stureskolan
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '35613813'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Martin Koch-gymnasiet
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '86327236'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedemora Vuxenubildning/Lärvux
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '68407852'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedemora Vuxenutbildning
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '43666115'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedemora Vuxenutbildning/ SFI
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '56980450'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fyrklöverskolan
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '59456453'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Garpenbergs skola
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '41896574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vikmanshyttans skola
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '83512536'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerby skola
+  PeOrgNr: '2120002254'
+  Skolenhetskod: '40506262'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:05.3305693+01:00'
+  latitude: null
+  longitude: null

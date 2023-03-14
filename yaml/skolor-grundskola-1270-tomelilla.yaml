@@ -1,0 +1,77 @@
+meta:
+  title: Tomelilla
+  kommunkod: '1270'
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+skolor:
+
+- name: Brösarps skola
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '29868932'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tryde Friskola
+  PeOrgNr: '7696096887'
+  Skolenhetskod: '15210966'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bollerups lantbruksinstitut
+  PeOrgNr: '8388001177'
+  Skolenhetskod: '65234368'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindesborgsskolan
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '90664546'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odenslundsskolan
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '13631556'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Smedstorps skola
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '20138309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Byavångsskolan
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '48048407'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kastanjeskolan
+  PeOrgNr: '2120000886'
+  Skolenhetskod: '90360196'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.0734579+01:00'
+  latitude: null
+  longitude: null

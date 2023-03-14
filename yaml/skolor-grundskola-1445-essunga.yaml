@@ -1,0 +1,77 @@
+meta:
+  title: Essunga
+  kommunkod: '1445'
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+skolor:
+
+- name: Nossebro skola år 6-9
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '26531220'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bredöls skola
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '81777373'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshem Bredöl
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '51303602'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jonslunds skola
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '58737998'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshem Jonslund
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '14508808'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Essunga Gymnasiesärskola
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '63358493'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nossebro skola år 0-5
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '57353499'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshem Nossebro
+  PeOrgNr: '2120002916'
+  Skolenhetskod: '74882334'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:40.0518937+01:00'
+  latitude: null
+  longitude: null

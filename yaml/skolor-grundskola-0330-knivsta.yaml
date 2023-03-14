@@ -1,0 +1,131 @@
+meta:
+  title: Knivsta
+  kommunkod: '0330'
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+skolor:
+
+- name: S:ta Maria Skola, Alsike
+  PeOrgNr: '2520032059'
+  Skolenhetskod: '27371086'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thunmanskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '92364234'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjögrenska gymnasiet
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '97064126'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högåsskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '75149624'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '35654532'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Margarethaskolan
+  PeOrgNr: '7696042618'
+  Skolenhetskod: '51867275'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valloxskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '69174303'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Adolfsbergsskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '22335099'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alsike skola
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '49742321'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brännkärrsskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '59464350'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lagga skola
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '30064502'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Långhundra skola
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '72061363'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängbyskolan
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '24774687'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null
+
+- name: Knivsta Grundsärskola
+  PeOrgNr: '2120003013'
+  Skolenhetskod: '79159191'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:42.3387578+01:00'
+  latitude: null
+  longitude: null

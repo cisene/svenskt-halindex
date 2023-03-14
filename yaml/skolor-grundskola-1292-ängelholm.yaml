@@ -1,0 +1,356 @@
+meta:
+  title: Ängelholm
+  kommunkod: '1292'
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+skolor:
+
+- name: SFI
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '15514098'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särvux
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '72406229'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Toftaskolan SO 3
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '45031033'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms Gymnasieskola Ro1 - GIP Victoria
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '17628433'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms gymnasieskola Ro 4
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '82160887'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms gymnasieskola Ro 5
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '23175129'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Ängelholms gymnasieskola Ro 6 '
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '27527812'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms gymnasieskola Ro 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '55010709'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms gymnasieskola Ro 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '65392939'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms gymnasieskola Ro 3
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '98696836'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '65534600'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '24083577'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vejbystrands skola
+  PeOrgNr: '7164063872'
+  Skolenhetskod: '39381869'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Össjö skola
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '36962579'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söndrebalgs skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '62412121'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Errarps skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '69871183'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Errarps skola SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '86727816'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kungsgårdsskolan SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '51900988'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kungsgårdsskolan SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49648821'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Magnarps skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49455969'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Magnarps skola SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49539818'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Toftaskolan SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '51497405'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhemsskolan SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49730992'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhemsskolan SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49786332'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Toftaskolan SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '32543527'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rebbelberga skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49868503'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Villanskolan SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '50088186'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rebbelberga skola SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '49950675'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Språkcentrum
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '82929142'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strövelstorps skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '34909954'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strövelstorps skola SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '34992126'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södra Utmarkens skola SO 1
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '34797598'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Villanskolan SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '50198866'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängelholms Montessoriskola
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '78910791'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Möllebackens fritidshem
+  PeOrgNr: '8394003647'
+  Skolenhetskod: '54226075'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Ängelholm
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '72300166'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söndrebalgs skola SO 2
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '62301442'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '40780218'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null
+
+- name: Barn- och elevhälsan
+  PeOrgNr: '2120000977'
+  Skolenhetskod: '38625102'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.9277197+01:00'
+  latitude: null
+  longitude: null

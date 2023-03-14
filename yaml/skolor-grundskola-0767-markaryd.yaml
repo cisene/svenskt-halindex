@@ -1,0 +1,104 @@
+meta:
+  title: Markaryd
+  kommunkod: '0767'
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+skolor:
+
+- name: Timsfors skola
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '25157363'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömsnässkolan 7-9
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '59001324'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning SFI
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '47461767'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning Särvux
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '92322610'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '19252277'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Strömsnäsbruk
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '39580788'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Traryds skola
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '22058882'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Markaryds skola 7-9
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '88784456'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieskolan
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '58187973'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömsnässkolan F-6
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '51999929'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null
+
+- name: Markaryds skola F-6
+  PeOrgNr: '2120000654'
+  Skolenhetskod: '88885075'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:39.3668061+01:00'
+  latitude: null
+  longitude: null

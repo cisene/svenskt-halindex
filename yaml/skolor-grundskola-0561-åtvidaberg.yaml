@@ -1,0 +1,95 @@
+meta:
+  title: Åtvidaberg
+  kommunkod: '0561'
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+skolor:
+
+- name: Centralskolan
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '51207895'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björsäters skola
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '43771345'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grebo skola
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '90303058'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '38012987'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Bildningscentrum Facetten '
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '24538846'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolan
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '30816921'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hannäs fritidshem
+  PeOrgNr: '7696016265'
+  Skolenhetskod: '51961097'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan  4-6
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '65858187'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alléskolan  7-9
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '56528690'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen VUX
+  PeOrgNr: '2120000415'
+  Skolenhetskod: '84489802'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:44:59.6181167+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,203 @@
+meta:
+  title: Mariestad
+  kommunkod: '1493'
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+skolor:
+
+- name: Torsö Skärgårdsskola
+  PeOrgNr: '7696198865'
+  Skolenhetskod: '48056070'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högelidsskolan 7-9
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '62694008'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvarnstenens skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '71484023'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '86093284'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Unicaskolan
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '30467029'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunaholmsskolan
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '48016437'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högelidsskolan särskola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '32737588'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vänergymnasiet
+  PeOrgNr: '5566269014'
+  Skolenhetskod: '76007769'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prismaskolan
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '26296411'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grangärdets skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '99243321'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högelidsskolan F-6
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '17581579'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tidavads skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '12357670'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vadsbogymnasiet enhet 4
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '14579090'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vadsbogymnasiet enhet 2
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '14414747'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hasslerörs skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '55024806'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lyrestads skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '57260659'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullervads skola
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '69164983'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning enhet 1
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '48214042'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekhamraskolan
+  PeOrgNr: '5568020852'
+  Skolenhetskod: '29289355'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillängsskolan
+  PeOrgNr: '5568020852'
+  Skolenhetskod: '28646634'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vadsbogymnasiet enhet 1
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '14384562'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vadsbogymnasiet enhet 3
+  PeOrgNr: '2120001686'
+  Skolenhetskod: '14550581'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:13.3563456+01:00'
+  latitude: null
+  longitude: null

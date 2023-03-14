@@ -1,0 +1,140 @@
+meta:
+  title: Staffanstorp
+  kommunkod: '1230'
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+skolor:
+
+- name: Hjärupslundsskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '46191968'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Staffanstorps Montessoriskola
+  PeOrgNr: '8450008647'
+  Skolenhetskod: '49038465'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hjärups skola
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '27411228'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mellanvångsskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '81566694'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tottarps skola
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '79472428'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppåkraskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '20722895'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldersskolan 7-9
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '86546038'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kometskolan Introduktionsprogram
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '31688123'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullåkraskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '61151036'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagalidskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '28784410'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldersskolan F-6
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '49039496'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Staffanstorp
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '68467205'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkheddinge skola
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '82149276'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stanstorpsskolan
+  PeOrgNr: '2120001017'
+  Skolenhetskod: '63526897'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hvilan Gymnasium Kabbarp
+  PeOrgNr: '5566066980'
+  Skolenhetskod: '34222422'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:17.6602341+01:00'
+  latitude: null
+  longitude: null

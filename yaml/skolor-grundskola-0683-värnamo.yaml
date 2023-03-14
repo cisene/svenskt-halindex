@@ -1,0 +1,284 @@
+meta:
+  title: Värnamo
+  kommunkod: 0683
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+skolor:
+
+- name: Finnvedens Gymnasium 4
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '18217765'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skalmans Hus
+  PeOrgNr: '7164035698'
+  Skolenhetskod: '31899659'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnvedens Gymnasium 2
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '36355200'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Å-mini förskola och fritidshem
+  PeOrgNr: '8280008296'
+  Skolenhetskod: '63367807'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forshedaskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '23192281'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnvedens gymnasium 5
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '25401608'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Apladalsskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '40576389'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Borbackaskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '90000574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bredaryds skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '73914410'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux SFI
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '26825208'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enehagens skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '16778059'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindens skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '28694008'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fryele skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '19228578'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gällaryds skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '54519463'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mossleskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '59015476'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolans särvux
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '77244641'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '72080123'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Trälleborg
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '90809860'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tånnö skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '86230955'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bors skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '68702432'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Värnamo
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '33798355'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hanahöjskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '63642579'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hånger skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '54642333'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kärda skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '95736970'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnvedens Gymnasium 3
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '96920524'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gröndalsskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '41729877'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rörstorpsskolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '70738456'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Exposkolan
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '41604381'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnvedens Gymnasium 1
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '16577552'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Horda skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '84123958'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rydaholms skola
+  PeOrgNr: '2120000555'
+  Skolenhetskod: '13114568'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:55.9319909+01:00'
+  latitude: null
+  longitude: null

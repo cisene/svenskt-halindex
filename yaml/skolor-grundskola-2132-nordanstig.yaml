@@ -1,0 +1,104 @@
+meta:
+  title: Nordanstig
+  kommunkod: '2132'
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+skolor:
+
+- name: Vuxenutbildningen, SFI, särvux RO 16
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '92508420'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergsjö skola
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '11892057'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bringstaskolan
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '59944575'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lönnbergsskolan
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '99896722'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gnarps skola
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '32915290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arthur Engbergskolan
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '73758193'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ilsbo skola
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '95077890'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieutbildn. i Nordanstig RO9
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '16374064'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Träningsklassen i Bergsjö
+  PeOrgNr: '2120002312'
+  Skolenhetskod: '92338743'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stocka Friskola
+  PeOrgNr: '7696021240'
+  Skolenhetskod: '50339286'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hosiannaskolan
+  PeOrgNr: '8875012570'
+  Skolenhetskod: '21342606'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:18:07.3995324+01:00'
+  latitude: null
+  longitude: null

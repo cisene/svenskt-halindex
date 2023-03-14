@@ -1,0 +1,167 @@
+meta:
+  title: Lycksele
+  kommunkod: '2481'
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+skolor:
+
+- name: Tannbergsskolan 1
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '49168016'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tannbergsskolan 3
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '50821167'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tannbergsskolan 5, komvux
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '87685276'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tannbergsskolan 2
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '32042066'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forsdalaskolan F-6
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '15825322'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnbacksskolan 1
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '12853184'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lycksele särskola 1-9
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '52361269'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norrängsskolan
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '73265454'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tannbergsskolan 4
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '71929526'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnbacksskolan 2
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '12717350'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furuviks skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '76316166'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedlunda skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '36036642'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Knaftens skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '19481421'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kristinebergs skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '65602740'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rusksele skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '70212191'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södermalmsskolan
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '21774215'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Umgransele skola
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '17245575'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnbacksskolan 3
+  PeOrgNr: '2120002635'
+  Skolenhetskod: '41596705'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:14.8997970+01:00'
+  latitude: null
+  longitude: null

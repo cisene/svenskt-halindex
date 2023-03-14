@@ -1,0 +1,131 @@
+meta:
+  title: Lysekil
+  kommunkod: '1484'
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+skolor:
+
+- name: Gullmarsgymnasiet 2
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '60873719'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullmarsskolan F-6
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '38925677'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullmarsgymnasiet 1
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '92814975'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedalsskolan
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '15905789'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullmarsskolan särskolan
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '50528296'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lysekils Vuxenutb., särvux
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '29965585'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lysekils Vuxenutb., komvux
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '60059728'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lysekils Vuxenutbildning SFI
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '50533115'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasiesärskolan
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '24292581'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bro skola
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '21004427'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stångenässkolan
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '71907938'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergs skola
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '33574346'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullmarsskolan 7-9
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '12247315'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skaftö skola
+  PeOrgNr: '2120001389'
+  Skolenhetskod: '71589053'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:40.1068022+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,212 @@
+meta:
+  title: Älmhult
+  kommunkod: '0765'
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+skolor:
+
+- name: Älmhults Montessoriskola
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '60286462'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Linnéskolan 2
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '66184918'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Liatorps skola
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '73255943'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Diö skola
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '93625542'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: The Intern. School of Älmhult
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '64505955'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klöxhultsskolan 2
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '44047778'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan 3
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '63124979'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan vuxenutb./särvux
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '30539167'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskola
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '56811236'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid i Älmhult
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '84756527'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ryfors skola
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '27479345'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bråthults Friskola
+  PeOrgNr: '7696194153'
+  Skolenhetskod: '57408646'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Virestads Friskola
+  PeOrgNr: '7696194153'
+  Skolenhetskod: '28837069'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan 1
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '67422309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Paradisskolan
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '71440408'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan vuxenutbildning
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '41634090'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gemöskolan
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '29959232'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klöxhultsskolan 1
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '43289789'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Linnéskolan 1
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '53191534'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elmeskolan
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '19901289'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan vuxenutbildning-SFI
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '13975760'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Resursverksamheter
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '39997144'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haganässkolan2
+  PeOrgNr: '2120000647'
+  Skolenhetskod: '67058407'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:29.0351231+01:00'
+  latitude: null
+  longitude: null

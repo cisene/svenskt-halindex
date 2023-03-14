@@ -1,0 +1,131 @@
+meta:
+  title: Öckerö
+  kommunkod: '1407'
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+skolor:
+
+- name: Brattebergsskolan 7-9
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '85862849'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedens skola 7-9
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '92940771'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergagårdsskolan
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '46441044'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öckerö Seglande gymnasieskola
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '77358716'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rörö skola
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '22044740'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Betelskolan
+  PeOrgNr: '8024250972'
+  Skolenhetskod: '65677988'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fotö skola
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '53126890'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedens skola 4-6
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '74987592'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunala vuxenutbildningen
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '90445270'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärvux
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '45441116'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkö skola
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '70498449'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kompassenskolan
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '36423290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brattebergsskolan 4-6
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '85969404'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hälsö skola
+  PeOrgNr: '2120001280'
+  Skolenhetskod: '20144959'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:15.1422260+01:00'
+  latitude: null
+  longitude: null

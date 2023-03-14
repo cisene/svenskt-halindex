@@ -1,0 +1,122 @@
+meta:
+  title: Svedala
+  kommunkod: '1263'
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+skolor:
+
+- name: I Ur och Skur Skabersjöskolan
+  PeOrgNr: '7696021513'
+  Skolenhetskod: '84580153'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan F-3
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '36013016'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Spångholmsskolan 4-9
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '83516023'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sveriges Ridgymnasium Svedala
+  PeOrgNr: '5566814504'
+  Skolenhetskod: '50615280'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Roslättsskolan F-3
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '46967539'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nils Fredriksson Utbildning, gymnasium
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '58518163'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nils Fredriksson Utbildning, komvux
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '65664008'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Naverlönnskolan 4-9
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '65569784'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marbäcksskolan F-3
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '43569718'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '17126642'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klågerupskolan F-9
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '51392146'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baraskolan F-3
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '95451533'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aggarpsskolan 4-9
+  PeOrgNr: '2120001074'
+  Skolenhetskod: '60641880'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:47.5837678+01:00'
+  latitude: null
+  longitude: null

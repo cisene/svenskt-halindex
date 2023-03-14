@@ -1,0 +1,167 @@
+meta:
+  title: Kumla
+  kommunkod: '1881'
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+skolor:
+
+- name: Hardemo skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '59594715'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stene skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '61336347'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekeby skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '48016240'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Introduktionsprogrammet Kumla
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '23350817'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kumlaby skola 7-9
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '75692870'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '89533473'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillhedens skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '17387844'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogstorpsskolan 7-9
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '44243725'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malmens skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '12251866'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kumlaby skola F-6
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '49957284'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kumlaby särskola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '50985978'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fylsta skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '73848710'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogstorpsskolan F-6
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '26053163'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tallängens skola
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '22082291'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vialundskolan
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '99992013'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning i Kumla komvux
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '39551690'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning i Kumla SFI
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '13053763'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning i Kumla särvux
+  PeOrgNr: '2120001975'
+  Skolenhetskod: '46445330'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:12:26.0228016+01:00'
+  latitude: null
+  longitude: null

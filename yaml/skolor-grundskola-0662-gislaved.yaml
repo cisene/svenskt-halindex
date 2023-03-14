@@ -1,0 +1,239 @@
+meta:
+  title: Gislaved
+  kommunkod: '0662'
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+skolor:
+
+- name: Gislaveds gymnasium Ekonomisk sektor
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '25679488'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stora Segerstad Naturbrukscentrum
+  PeOrgNr: '2321000057'
+  Skolenhetskod: '88163512'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Motorsportsgymnasiet i Anderstorp
+  PeOrgNr: '5563836757'
+  Skolenhetskod: '90003262'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessorifriskolan i Gislaved
+  PeOrgNr: '7696123103'
+  Skolenhetskod: '93436580'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gislaveds gymnasium Teknisk sektor
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '89888648'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centrum för livslångt lärande
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '25337560'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gislaveds gymnasium Utvecklingssektor
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '72644577'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekenskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '28566222'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gislaveds gymnasium NEO-sektor
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '25677996'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nordinskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '40991541'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullviveskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '89989940'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skeppshultskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '25720600'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gyllenforsskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '60157765'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sörgårdsskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '89859181'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Isabergskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '30777212'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klockargårdskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '27057988'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Töråsskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '90837768'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bureskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '91542623'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Villstadskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '82127811'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lundåkerskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '47236914'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsenskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '70954223'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åtteråsskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '46098033'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängslyckans skola
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '26596084'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ölmestadskolan
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '85013151'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gullviveskolans grundsärskolenhet 1-6, Regnskogen
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '76505153'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lundåkerskolans grundsärskoleenhet 7-9, Lunden
+  PeOrgNr: '2120000514'
+  Skolenhetskod: '68742708'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:47:14.4440678+01:00'
+  latitude: null
+  longitude: null

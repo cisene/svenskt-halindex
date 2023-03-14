@@ -1,0 +1,95 @@
+meta:
+  title: Ånge
+  kommunkod: '2260'
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+skolor:
+
+- name: Kordelia Friskola AB
+  PeOrgNr: '5565696852'
+  Skolenhetskod: '65951625'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bobergsgymnasiet
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '56802300'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkbackaskolan
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '71108679'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fränstaskolan
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '17514337'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungaskolan
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '68495182'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torpshammars skola
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '64255803'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Minervaskolan
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '43954518'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ångströmsenheten, komvux
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '51421576'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ångströmsenheten, SFI
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '14011098'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ångströmsenheten, särvux
+  PeOrgNr: '2120002387'
+  Skolenhetskod: '86067569'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:22.2245536+01:00'
+  latitude: null
+  longitude: null

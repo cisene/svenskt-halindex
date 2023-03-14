@@ -1,0 +1,176 @@
+meta:
+  title: Strömstad
+  kommunkod: '1486'
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+skolor:
+
+- name: Bojarskolan F-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '93814108'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tjärnö skola F-3
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '14814740'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valemyrskolan F-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '32311635'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Koster skola F-3
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '80203669'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skee skola F-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '57063673'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömstad Gymnasium, SGY2
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '36936260'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odelsbergsskolan F-3
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '23813942'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odelsbergsskolan 4-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '24358957'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömstiernaskolan 1
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '19292128'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mellegården skola F-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '78828269'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan 1-9 (Ämnesområden)
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '20561082'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, komvux
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '17745591'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen, SFI
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '62278994'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömstad Gymnasium, SGY1
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '70036612'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux som särskild utbildning
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '37778517'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan 1-9 (Ämnen)
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '69385237'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisning och studiehandledning
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '37936475'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömstiernaskolan 2
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '19188156'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rossö skola F-6
+  PeOrgNr: '2120001405'
+  Skolenhetskod: '11065005'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:06:00.8036973+01:00'
+  latitude: null
+  longitude: null

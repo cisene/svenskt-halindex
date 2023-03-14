@@ -1,0 +1,167 @@
+meta:
+  title: Söderköping
+  kommunkod: 0582
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+skolor:
+
+- name: Nyströmska skolan  KomVux
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '60955659'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkhagaskolan
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '46785601'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ramunderskolan
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '99361107'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söderköpings Waldorfskola
+  PeOrgNr: '8250017939'
+  Skolenhetskod: '70789823'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyströmska gymnasiesärskola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '88007918'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skönbergaskolan
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '68550751'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkängen skola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '27212144'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyströmska skolan SärVux
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '61279287'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ramunder grundsärskola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '10231793'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergaskolan
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '79515038'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sankt Anna skola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '63176416'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyströmska skolan 1
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '10226870'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gårdeby friskola
+  PeOrgNr: '7696011993'
+  Skolenhetskod: '64901558'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyströmska skolan 2
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '19839859'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mogata skola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '22195087'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra Husby skola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '38948355'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Ryds skola
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '59575795'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyströmska skolan 3
+  PeOrgNr: '2120000464'
+  Skolenhetskod: '37583611'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:51.5875429+01:00'
+  latitude: null
+  longitude: null

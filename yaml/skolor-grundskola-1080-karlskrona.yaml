@@ -1,0 +1,419 @@
+meta:
+  title: Karlskrona
+  kommunkod: '1080'
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+skolor:
+
+- name: Karlskrona Montessorifriskola
+  PeOrgNr: '5565030599'
+  Skolenhetskod: '67509465'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Torpskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '28023411'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Musikugglan
+  PeOrgNr: '5564127099'
+  Skolenhetskod: '93919365'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Piggelinen
+  PeOrgNr: '5567260954'
+  Skolenhetskod: '99469094'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fågelmaraskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '52201227'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '18172412'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lyckeby kunskapscentrum F-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '55709634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ramdalaskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '51415031'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särvux, Vuxenutb. Karlskrona
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '77026516'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Verköskolan F-2
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '95695515'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Språkcentrum
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '37521771'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosenfeldtskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '12935859'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunnadalskolan F-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '21608206'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kättilsmålaskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '35751509'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aspöskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '20767970'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Spandelstorpskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '58982564'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '68453756'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: af Chapmangymnasiet
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '30530571'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömsbergs Friskola
+  PeOrgNr: '5568823859'
+  Skolenhetskod: '58881130'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlskrona Resursskola Aklejaskolan
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '29794705'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Saltöskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '37053461'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torhamnskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '22552676'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hästöskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '88401011'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bastasjö Friskola AB
+  PeOrgNr: '5568076375'
+  Skolenhetskod: '76776855'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen SFI
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '85050087'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekekullen skola
+  PeOrgNr: '5566127097'
+  Skolenhetskod: '70122435'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hasslöskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '57420772'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Holmsjöskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '55030330'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosenholmskolan Sport College 7-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '89523926'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Karlskrona
+  PeOrgNr: '5569320699'
+  Skolenhetskod: '10662754'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tvingskola F-2
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '96392396'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fridlevstadskolan 3-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '17950126'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rödebyskolan F-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '32421136'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nättraby kunskapscentrum F-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '76323160'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sturköskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '55592897'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tullskolan F-6
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '14388216'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Wämöskolan 7-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '63323984'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ehrensvärdska gymnasiet
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '96024712'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Friskolan Svettpärlan
+  PeOrgNr: '5565570446'
+  Skolenhetskod: '93964634'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Törnströmska gymnasiesärskolan
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '32077066'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fischerströmska gymnasiet
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '36845597'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torlyckans personalkooperativ fritidshem
+  PeOrgNr: '7696028955'
+  Skolenhetskod: '69990812'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Törnströmska gymnasiet
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '85800840'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämjö kunskapscentrum F-9
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '97495074'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aspero Idrottsgymn. Karlskrona
+  PeOrgNr: '5566363973'
+  Skolenhetskod: '78839208'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null
+
+- name: International School of Karlskrona
+  PeOrgNr: '2120000829'
+  Skolenhetskod: '22763731'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T09:51:00.1612277+01:00'
+  latitude: null
+  longitude: null

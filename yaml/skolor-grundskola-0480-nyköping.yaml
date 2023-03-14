@@ -1,0 +1,410 @@
+meta:
+  title: Nyköping
+  kommunkod: 0480
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+skolor:
+
+- name: Kiladalens norra skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '25433795'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kiladalens södra skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '91419745'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bryngelstorpskolan
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '62817522'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings gymnasium Gripen
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '68655578'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosenkulla skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '42584474'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings gymnasium Skavsta
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '17062663'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjösa skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '53953848'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings gymnasium Nico
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '68741484'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mikaeliskolan
+  PeOrgNr: '8190010572'
+  Skolenhetskod: '75746018'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öknaskolan
+  PeOrgNr: '2321000032'
+  Skolenhetskod: '34990065'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elteknikbranschens gymnasium
+  PeOrgNr: '5567106637'
+  Skolenhetskod: '27489137'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Släbroskolan
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '23286483'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '80531441'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gruvans skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '43811145'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings Enskilda Grundskola
+  PeOrgNr: '5590689559'
+  Skolenhetskod: '91013126'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tystberga skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '68094768'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Blomenbergska skolan
+  PeOrgNr: '5568737091'
+  Skolenhetskod: '74105812'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '60692219'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '53076982'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '11397094'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Båktorp skolan
+  PeOrgNr: '5564834363'
+  Skolenhetskod: '17393295'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshemmet Prästkragen
+  PeOrgNr: '2520027166'
+  Skolenhetskod: '28720531'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Studiero
+  PeOrgNr: '5565250247'
+  Skolenhetskod: '98693413'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gruvans grundsärskola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '45810798'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Realgymnasiet Nyköping
+  PeOrgNr: '5565715892'
+  Skolenhetskod: '56267421'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsskolan Nyköping
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '88046003'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fokusskolan
+  PeOrgNr: '5567812291'
+  Skolenhetskod: '18915192'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings resursskola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '91728040'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arnö skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '20748461'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunabergs skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '88884378'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stigtomta skola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '79566399'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Nyköping
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '91578294'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: LBS Kreativa Gymnasiet Nyköping
+  PeOrgNr: '5564851649'
+  Skolenhetskod: '44285075'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Nyköping 2
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '90949432'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköping Strand Utbildn.center
+  PeOrgNr: '5564710795'
+  Skolenhetskod: '60424371'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arnö grundsärskola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '31508071'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings högstadium grundsärskola
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '54397213'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vrena friskola
+  PeOrgNr: '8024604285'
+  Skolenhetskod: '57861440'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyköpings Enskilda Gymnasium
+  PeOrgNr: '5564418449'
+  Skolenhetskod: '95785055'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra skolan
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '87469558'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra skolan
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '81899882'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dammlötskolan
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '62179318'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittra Kungshagen
+  PeOrgNr: '5564586716'
+  Skolenhetskod: '50698424'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Nyköpings högstadium '
+  PeOrgNr: '2120002940'
+  Skolenhetskod: '99757444'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null
+
+- name: Praktiska Gymnasiet Nyköping
+  PeOrgNr: '5565304481'
+  Skolenhetskod: '15609112'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:05.0109594+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,86 @@
+meta:
+  title: Dals-Ed
+  kommunkod: '1438'
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+skolor:
+
+- name: Komvux, särvux
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '23136002'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Snörrumskolan
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '62394711'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '93081338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utsikten Grundsärskola
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '75316441'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utsikten, Dals-Eds gymnasiesärskola
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '11963126'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Snörrums fritidshem
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '17560746'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utsikten, Dals-Eds gymnasium
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '88573795'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux Dals-Ed Utsikten
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '65725141'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux SFI Dals-Ed Utsikten
+  PeOrgNr: '2120001413'
+  Skolenhetskod: '59612371'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:27.5021959+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,68 @@
+meta:
+  title: Arvidsjaur
+  kommunkod: '2505'
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+skolor:
+
+- name: Fridhemsskolan
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '48373752'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandbackaskolan
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '84947634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandbackaskolan, komvux
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '41278626'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandbackaskolan, SFI
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '88191771'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '16305064'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ringelskolan
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '72388632'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tallbackaskolan
+  PeOrgNr: '2120002650'
+  Skolenhetskod: '13473423'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:35.6200239+01:00'
+  latitude: null
+  longitude: null

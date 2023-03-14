@@ -1,0 +1,176 @@
+meta:
+  title: Härnösand
+  kommunkod: '2280'
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+skolor:
+
+- name: Gerestaskolan åk F-6
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '87856368'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedda Wisingskolan
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '16490220'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brännaskolan
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '67320845'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Geresta-/Hedda Wising grundsärskola
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '85295425'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Wendela Hellmanskolan
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '97940004'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Härnösands gymnasium 3
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '30468157'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Solenskolan åk F-6
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '45142548'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brunne skola
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '91634644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bondsjöhöjdens skola åk F-2
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '36869705'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Murbergsskolan åk 3-6
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '93068004'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kristinaskolan
+  PeOrgNr: '2021005745'
+  Skolenhetskod: '53471701'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Häggdånger byskola
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '51537516'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kastellskolan
+  PeOrgNr: '8880008365'
+  Skolenhetskod: '69454219'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hälledals skola
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '78789883'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älandsbro skola åk F-6
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '27395094'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Härnösands gymnasiesärskola
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '31964115'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning i Härnösand
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '50159144'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Härnösands gymnasium 1
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '55535552'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null
+
+- name: Härnösands gymnasium 2
+  PeOrgNr: '2120002403'
+  Skolenhetskod: '19560192'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:42.9205702+01:00'
+  latitude: null
+  longitude: null

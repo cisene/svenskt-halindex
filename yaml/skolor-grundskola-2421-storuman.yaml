@@ -1,0 +1,104 @@
+meta:
+  title: Storuman
+  kommunkod: '2421'
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+skolor:
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '36157857'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Storumans lärcentrum
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '66627501'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gunnarns skola
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '71588344'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stensele skola
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '57644285'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '46194530'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallnässkolan
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '97480702'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Luspengymnasiet
+  PeOrgNr: '2220003293'
+  Skolenhetskod: '50104466'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skytteanska skolan
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '52561988'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Slussfors skola
+  PeOrgNr: '2120002577'
+  Skolenhetskod: '96944864'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sameskolan Tärnaby
+  PeOrgNr: '2021004631'
+  Skolenhetskod: '23282133'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tärnaby Alpina Gymnasium
+  PeOrgNr: '2220003293'
+  Skolenhetskod: '28004794'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:02.4428869+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,59 @@
+meta:
+  title: Bräcke
+  kommunkod: '2305'
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+skolor:
+
+- name: Gällö skola
+  PeOrgNr: '2120002460'
+  Skolenhetskod: '34671510'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bräcke skola
+  PeOrgNr: '2120002460'
+  Skolenhetskod: '63287550'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Vux Bräcke
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '80720848'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Bräcke
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '26864271'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kälarne skola
+  PeOrgNr: '2120002460'
+  Skolenhetskod: '82223639'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Vux Bräcke, SFI
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '71971131'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:20:46.8368168+01:00'
+  latitude: null
+  longitude: null

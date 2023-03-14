@@ -1,0 +1,23 @@
+meta:
+  title: Grästorp
+  kommunkod: '1444'
+  updated: '2023-03-14T22:02:29.7078323+01:00'
+skolor:
+
+- name: Nya Centralskolan 4-9
+  PeOrgNr: '2120001595'
+  Skolenhetskod: '31381375'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:29.7078323+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lunnevienheten
+  PeOrgNr: '2120001595'
+  Skolenhetskod: '54556634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:02:29.7078323+01:00'
+  latitude: null
+  longitude: null

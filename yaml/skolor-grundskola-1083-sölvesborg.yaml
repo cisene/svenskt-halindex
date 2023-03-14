@@ -1,0 +1,176 @@
+meta:
+  title: Sölvesborg
+  kommunkod: '1083'
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+skolor:
+
+- name: Norje skola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '80918950'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högtofta skola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '22544999'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bokelundsskolan H
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '94309839'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furubygg
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '29324709'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '22853696'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Möllebacksskolan
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '44972693'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hörviks skola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '39598101'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hjortakroksskolan
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '49771353'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mjällby skola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '88104795'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furulundsskolan 1
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '23476801'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furulundsskolan 2
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '86351879'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furulundsskolans gymnasiesärskola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '55818007'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sölvesborgs Vuxenutbildning
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '29888088'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sölvesborgs Vuxenutbildning Komvux som särskild utbildning
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '11828295'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisningen
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '40866866'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sölvesborgs Vuxenutbildning SFI
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '63305340'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stödenheten Skanslyckan
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '61138510'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Havelidens skola
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '22379655'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null
+
+- name: Falkviksskolan
+  PeOrgNr: '2120000852'
+  Skolenhetskod: '18846309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.7810871+01:00'
+  latitude: null
+  longitude: null

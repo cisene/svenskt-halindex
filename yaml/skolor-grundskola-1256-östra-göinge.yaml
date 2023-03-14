@@ -1,0 +1,140 @@
+meta:
+  title: Östra Göinge
+  kommunkod: '1256'
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+skolor:
+
+- name: Kviinge skola
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '87913800'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Snapphaneskolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '81683738'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästavångsskolan F-3
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '22701498'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göinge utbildningscenter, Gymnasium
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '84200045'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göinge Utbildningscenter, Yrkesvux
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '98157215'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göinge utbildningscenter, Särvux
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '89512991'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göinge Utbildningscenter, Komvux
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '17640980'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göinge utbildningscenter, SFI
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '38841563'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mölleskolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '40044299'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerskolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '48978921'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Färe Montessoriskola
+  PeOrgNr: '7696004154'
+  Skolenhetskod: '26599013'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Glimåkraskolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '95828750'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vita skolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '15777605'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prästavångsskolan 4-6
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '17752023'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göingeskolan
+  PeOrgNr: '2120000860'
+  Skolenhetskod: '84902434'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:53:56.6669652+01:00'
+  latitude: null
+  longitude: null

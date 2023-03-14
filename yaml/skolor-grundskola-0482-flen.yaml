@@ -1,0 +1,167 @@
+meta:
+  title: Flen
+  kommunkod: 0482
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+skolor:
+
+- name: Stenhammarskolans grundsärskola 7-9
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '74978037'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenhammarskolan 4-6
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '92253510'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenhammarskolan 7-9
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '81546814'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenhammarskolan F-3
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '93189258'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stiftelsen Dunkers förskola och skola
+  PeOrgNr: '8185013722'
+  Skolenhetskod: '87319414'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sparreholms skola
+  PeOrgNr: '5569568180'
+  Skolenhetskod: '66357455'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Europaskolan Malmköping
+  PeOrgNr: '5567480511'
+  Skolenhetskod: '38215460'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '83252289'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bruksskolan
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '59846075'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flens kristna skola
+  PeOrgNr: '5568505191'
+  Skolenhetskod: '52287808'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Kommunal verksamhet
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '91422929'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bettna skola
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '74938627'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malmaskolan
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '41621337'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flen komvux
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '75590868'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flen Komvux, Lärvux
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '11539835'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flen komvux, SFI
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '93187037'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prins Wilhelm gymnasiet
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '59455288'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenhammarskolan grundsärskola 1-6
+  PeOrgNr: '2120000332'
+  Skolenhetskod: '25762448'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:25.7642450+01:00'
+  latitude: null
+  longitude: null

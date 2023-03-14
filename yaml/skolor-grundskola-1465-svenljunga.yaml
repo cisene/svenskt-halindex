@@ -1,0 +1,140 @@
+meta:
+  title: Svenljunga
+  kommunkod: '1465'
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+skolor:
+
+- name: Elevhälsan
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '94030917'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sexdrega skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '45925310'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Frölunda skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '95945189'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Överlida skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '60050590'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mjöbäcks skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '24017095'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieutbildn. i Svenljunga
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '11681103'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '59246649'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Landboskolan
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '36851594'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mårdaklevs skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '45241148'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mogaskolan 7-9
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '71724902'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hillareds skola
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '28714876'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Vuxenutbildningen i Svenljunga '
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '68515429'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mogaskolan F-6
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '71010514'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Naturbruksskolan Svenljunga
+  PeOrgNr: '2321000131'
+  Skolenhetskod: '19035583'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mogaskolan sär
+  PeOrgNr: '2120001512'
+  Skolenhetskod: '50159178'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:02.8222390+01:00'
+  latitude: null
+  longitude: null

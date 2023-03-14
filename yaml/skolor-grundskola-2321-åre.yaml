@@ -1,0 +1,140 @@
+meta:
+  title: Åre
+  kommunkod: '2321'
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+skolor:
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '96584716'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Åre 1
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '15149235'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Åre 2
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '48336642'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, SFI
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '98714175'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning Campus Åre
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '25965986'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, särvux
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '37573280'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åre skola F-3
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '38418050'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Vux Åre
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '67415290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Racklöfska skolan F-6
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '19616441'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Duveds skola F-9
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '53536862'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stamgärde skola F-6
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '58764605'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hallens Kyrkskola F-9
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '47003034'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkslättens skola F-6
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '42149659'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mörsil F-9
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '50126333'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mörsils skola GRS
+  PeOrgNr: '2120002494'
+  Skolenhetskod: '12786536'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:17.8371483+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,104 @@
+meta:
+  title: Emmaboda
+  kommunkod: 0862
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+skolor:
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '75696100'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Johansfors skola   F-6
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '21786908'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindås skola  F-6
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '76954248'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Emmaboda komvux
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '83631514'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '13658508'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vilhelm Mobergsgymnasiet
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '17846181'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjurbäcksskolan F-6
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '73798677'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjurbäcksskolan 7-9
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '37716305'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Emmaboda komvux, särvux
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '96248484'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Långasjö skola    F-6
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '94837012'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vissefjärda skola F-6
+  PeOrgNr: '2120000738'
+  Skolenhetskod: '41013207'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:51:02.2518203+01:00'
+  latitude: null
+  longitude: null

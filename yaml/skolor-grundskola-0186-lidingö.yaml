@@ -1,0 +1,239 @@
+meta:
+  title: Lidingö
+  kommunkod: 0186
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+skolor:
+
+- name: Albatross Montessoriskola
+  PeOrgNr: '8136004168'
+  Skolenhetskod: '25253749'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Christinaskolan
+  PeOrgNr: '5568681810'
+  Skolenhetskod: '46097781'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lidingö - Anpassad grundskola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '25859285'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Kommunal verksamhet
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '30022120'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittra Lidingö
+  PeOrgNr: '5564586716'
+  Skolenhetskod: '46585145'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Källängens skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '69329486'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bo skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '52423184'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rudboda skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '35933721'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Futuraskolan International Kottla
+  PeOrgNr: '5566095047'
+  Skolenhetskod: '36276828'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bodals skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '98780182'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hersby gymnasium
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '71043974'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torsviks skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '45104329'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Käppala skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '20137688'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klockargårdens skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '91213471'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högsätra skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '49631077'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lidingö komvux
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '33953395'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sticklinge skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '60131588'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lunagymnasiet
+  PeOrgNr: '5564715729'
+  Skolenhetskod: '57777751'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lidingö komvux SFI
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '20254204'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lidingö komvux som särskild utbildning
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '21548595'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Christinagymnasiet
+  PeOrgNr: '5592340474'
+  Skolenhetskod: '76359296'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: I Ur och Skur Utsikten skola
+  PeOrgNr: '7696000855'
+  Skolenhetskod: '36185466'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stillerska gymnasiet
+  PeOrgNr: '5567777270'
+  Skolenhetskod: '38732602'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungbackens skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '27830075'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skärsätra skola
+  PeOrgNr: '2120000191'
+  Skolenhetskod: '81857869'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Futuraskolan International Gåshaga
+  PeOrgNr: '5566095047'
+  Skolenhetskod: '36513280'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:40:29.8164754+01:00'
+  latitude: null
+  longitude: null

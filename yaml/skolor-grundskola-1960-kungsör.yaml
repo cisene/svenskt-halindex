@@ -1,0 +1,68 @@
+meta:
+  title: Kungsör
+  kommunkod: '1960'
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+skolor:
+
+- name: Kungsörs Gymnasium
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '95992977'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '83880062'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerskolan
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '91901412'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning/SFI
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '60462003'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björskogsskolan
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '73280362'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kung Karl 46
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '90376263'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kung Karl 79
+  PeOrgNr: '2120002056'
+  Skolenhetskod: '46834580'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:38.3867036+01:00'
+  latitude: null
+  longitude: null

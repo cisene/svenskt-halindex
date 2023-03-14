@@ -1,0 +1,122 @@
+meta:
+  title: Hörby
+  kommunkod: '1266'
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+skolor:
+
+- name: Långaröd skola
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '35287613'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Killhult skola
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '77977024'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Georgshillsskolan 7-9
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '90834434'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Grundsärskolan Hörby kommun '
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '16608096'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hörby Lärcenter, komvux
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '39015433'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Georgshillsskolan F-6
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '71588741'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ludvigsborgs friskola
+  PeOrgNr: '7164396918'
+  Skolenhetskod: '52665905'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvdalsskolan
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '82471875'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hörby Yrkesgymnasium
+  PeOrgNr: '5568212939'
+  Skolenhetskod: '38917647'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '87689432'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Frostaskolan F-6
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '47853283'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östraby skola
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '55629703'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null
+
+- name: Frostaskolan 7-9
+  PeOrgNr: '2120001108'
+  Skolenhetskod: '38299211'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:21.3992029+01:00'
+  latitude: null
+  longitude: null

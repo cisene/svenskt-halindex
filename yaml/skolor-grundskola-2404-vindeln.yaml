@@ -1,0 +1,77 @@
+meta:
+  title: Vindeln
+  kommunkod: '2404'
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+skolor:
+
+- name: Renforsskolan
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '74352559'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvbrinkens skola
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '63863363'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hällnäs skola
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '15359609'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '34537258'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åmsele småbarnsskola
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '42955547'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Granö småbarnsskola
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '19012030'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tvärålunds skola
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '65981831'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux
+  PeOrgNr: '2120002544'
+  Skolenhetskod: '32541889'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:21.1809455+01:00'
+  latitude: null
+  longitude: null

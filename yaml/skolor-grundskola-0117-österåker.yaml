@@ -1,0 +1,221 @@
+meta:
+  title: Österåker
+  kommunkod: '0117'
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+skolor:
+
+- name: Skärgårdsgymnasiet
+  PeOrgNr: '5567284822'
+  Skolenhetskod: '56187883'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söraskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '88712672'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljusterö skola
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '53319802'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Roslags Kulla skola
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '58653522'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisningen
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '20273405'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredsborgskolan
+  PeOrgNr: '5567317416'
+  Skolenhetskod: '43869172'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Akers Friskola
+  PeOrgNr: '5565895777'
+  Skolenhetskod: '10715898'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Röllingbyskolan '
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '12407147'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjökarbyskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '23756252'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergsättraskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '97024653'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Solskiftesskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '82624830'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åkerstorpsskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '19704413'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Österskärsskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '94113162'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rydbo skola
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '72074288'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Österåkers gymnasium
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '20752831'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rydbo friskola
+  PeOrgNr: '5565934055'
+  Skolenhetskod: '73083470'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux i Österåkers kommun
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '90559785'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tråsättraskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '51305351'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skärgårdsstadsskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '73272488'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Margretelundsskolan
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '31758556'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Helleborusskolan Österåker
+  PeOrgNr: '5591023261'
+  Skolenhetskod: '59457803'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux i Österåkers kommun    Särvux
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '80046850'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux i Österåkers kommun    SFI
+  PeOrgNr: '2120002890'
+  Skolenhetskod: '35372646'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null
+
+- name: Robinson Valsjön
+  PeOrgNr: '5568086085'
+  Skolenhetskod: '96653388'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:13.1869553+01:00'
+  latitude: null
+  longitude: null

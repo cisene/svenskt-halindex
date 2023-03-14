@@ -1,0 +1,95 @@
+meta:
+  title: Jokkmokk
+  kommunkod: '2510'
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+skolor:
+
+- name: Lapplands Gymnasium Jokkmokk
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '39555838'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuollerims Friskola
+  PeOrgNr: '5567857262'
+  Skolenhetskod: '33468088'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra skolan
+  PeOrgNr: '2120002676'
+  Skolenhetskod: '86851817'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jokkmokk Lärcentra särvux
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '15502210'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jokkmokk Lärcentra, SFI
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '93565762'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jokkmokk Lärcentra
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '87394397'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Porjus skola
+  PeOrgNr: '2120002676'
+  Skolenhetskod: '66600682'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuollerims Centralskola
+  PeOrgNr: '2120002676'
+  Skolenhetskod: '89451025'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra skolan
+  PeOrgNr: '2120002676'
+  Skolenhetskod: '19143733'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sameskolan Jokkmokk
+  PeOrgNr: '2021004631'
+  Skolenhetskod: '91024314'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:56.3124025+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,167 @@
+meta:
+  title: Avesta
+  kommunkod: '2084'
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+skolor:
+
+- name: Domarhagsskolan
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '87516620'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenlärande särvux
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '59567254'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergsnässkolan
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '52904254'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grytnäs friskola
+  PeOrgNr: '2520047560'
+  Skolenhetskod: '96138660'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenlärande
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '96564358'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenlärande SFI
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '97025014'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Johan Olovsskolan
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '48240990'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fors skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '18273641'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Markusskolan
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '15648377'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åvestadalskolan
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '30454178'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlfeldtgymnasiet
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '30376472'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nordanö skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '49218585'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskola 1-6
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '70826875'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskola 7-9
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '62003778'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Krylbo skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '62043194'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: By skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '99431045'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsbo skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '92591861'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbo skola
+  PeOrgNr: '2120002262'
+  Skolenhetskod: '97945801'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:15.6797111+01:00'
+  latitude: null
+  longitude: null

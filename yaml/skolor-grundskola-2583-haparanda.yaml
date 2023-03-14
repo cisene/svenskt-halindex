@@ -1,0 +1,113 @@
+meta:
+  title: Haparanda
+  kommunkod: '2583'
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+skolor:
+
+- name: Tornedalsskolan
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '11294673'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tornedalsskolan vuxenutb
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '56545758'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tornedalsskolan, SFI
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '18113505'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marielund- Språkskolan
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '74486554'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolan Eden grundsär
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '86490934'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolan Eden, särvux
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '97745425'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessoriskolan Droppen
+  PeOrgNr: '8976004997'
+  Skolenhetskod: '80142495'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aspstrandens skola
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '91185118'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gränsskolan
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '29991096'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karungi skola
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '26619765'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nikkala skola
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '31409065'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null
+
+- name: Seskarö skola
+  PeOrgNr: '2120002775'
+  Skolenhetskod: '68499692'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:39.7482163+01:00'
+  latitude: null
+  longitude: null

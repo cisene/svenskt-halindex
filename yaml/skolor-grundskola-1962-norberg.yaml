@@ -1,0 +1,23 @@
+meta:
+  title: Norberg
+  kommunkod: '1962'
+  updated: '2023-03-14T22:13:59.1137194+01:00'
+skolor:
+
+- name: Centralskolan
+  PeOrgNr: '2120002072'
+  Skolenhetskod: '22347371'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:59.1137194+01:00'
+  latitude: null
+  longitude: null
+
+- name: Källskolan
+  PeOrgNr: '2120002072'
+  Skolenhetskod: '22451343'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:59.1137194+01:00'
+  latitude: null
+  longitude: null

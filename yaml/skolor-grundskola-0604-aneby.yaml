@@ -1,0 +1,68 @@
+meta:
+  title: Aneby
+  kommunkod: '0604'
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+skolor:
+
+- name: Furulidskolan
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '88669294'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Oasens skola
+  PeOrgNr: '5566501796'
+  Skolenhetskod: '48000763'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '29991409'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tallbackaskolan
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '34811255'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunhult skola
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '72916171'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vireda skola
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '81763314'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aneby Lärcentrum
+  PeOrgNr: '2120000498'
+  Skolenhetskod: '84781774'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:32.9760414+01:00'
+  latitude: null
+  longitude: null

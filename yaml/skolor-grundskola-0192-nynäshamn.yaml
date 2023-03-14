@@ -1,0 +1,149 @@
+meta:
+  title: Nynäshamn
+  kommunkod: 0192
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+skolor:
+
+- name: Modersmålsundervisning
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '20876760'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessoriskolan Binomen
+  PeOrgNr: '8124012371'
+  Skolenhetskod: '55217164'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Nynäshamn
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '65437206'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nynäshamns gymnasium
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '37054246'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vanstaskolan F-6
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '95790053'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vanstaskolan 7-9
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '73184416'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Viaskolan F-9
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '34814578'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vansta grundsärskola 1-9
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '91565957'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gröndalsskolan F-9
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '65717061'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nynäshamns gymnasiesärskola
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '26257479'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svandammsskolan F-6
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '18193338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan F-2
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '52406620'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tallbackaskolan F-3
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '12468259'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunnerbyskolan 3-6
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '78703073'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Idun grundsärskola inriktning ämnesområden
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '78543313'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null
+
+- name: Idun gymnasiesärskola individuellt program
+  PeOrgNr: '2120000233'
+  Skolenhetskod: '43964654'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:41:11.2790213+01:00'
+  latitude: null
+  longitude: null

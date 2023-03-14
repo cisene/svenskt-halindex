@@ -1,0 +1,140 @@
+meta:
+  title: Åmål
+  kommunkod: '1492'
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+skolor:
+
+- name: Vuxenutbildningen Åmål
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '83129238'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kristinebergskolan grundsärskola
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '87929683'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbergsgymnasiet 2
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '88429477'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Edsleskogs Friskola
+  PeOrgNr: '8024439062'
+  Skolenhetskod: '25567918'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Natur och Miljöskolan i Åmål
+  PeOrgNr: '5568523681'
+  Skolenhetskod: '80947842'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tösse skola
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '79937107'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fengersfors fritidshem
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '84599718'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbergsgymnasiet 1
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '16848652'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbergsgymnasiet 3
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '94975733'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbergsgymnasiet Gymnasiesärskola
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '27628327'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södra Skolan Grundsärskola
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '73587850'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rösparksskolan
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '86458114'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen, SFI
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '75851915'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kristinebergskolan
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '36724390'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södra skolan
+  PeOrgNr: '2120001587'
+  Skolenhetskod: '54749671'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:03.0045603+01:00'
+  latitude: null
+  longitude: null

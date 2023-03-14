@@ -1,0 +1,509 @@
+meta:
+  title: Varberg
+  kommunkod: '1383'
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+skolor:
+
+- name: Montessorisk. Lära för livet
+  PeOrgNr: '8496006555'
+  Skolenhetskod: '88650307'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhemsskolan Varbergs Krist sk
+  PeOrgNr: '7696068431'
+  Skolenhetskod: '74843338'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Drottning Blankas Gymnasieskola Varberg
+  PeOrgNr: '5565668794'
+  Skolenhetskod: '92442684'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rolfstorps skola 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '18002855'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ankarskolan 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '68653982'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ankarskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '38621807'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peder Skrivares skola Enhet 1
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54599691'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bockstensskolan 3-5 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '36590494'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peder Skrivares skola Enhet 2
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54004368'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bockstensskolan F-2 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '31680839'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peder Skrivares skola Enhet 3
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54467211'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peder Skrivares skola Enhet 5
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54443734'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Buaskolan F-6 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '11061967'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI Varberg
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '56222291'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Deromeskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '44822255'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enhet flerspråkighet
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '91315551'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furubergsskolan 1-5
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '60702782'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Trönninge skola F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '14839197'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furubergsskolan F-klass och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '86828079'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Göthriks skola F-6 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '67801661'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindbergs skola 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '23521056'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Almers grundsärskola enhet 4
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '24420071'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedal grundsärskola enhet 1
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '88443286'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedal grundsärskola enhet 3
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '64575564'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedal grundsärskola enhet 2
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '88307452'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindbergs skola F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '52088732'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Håstensskolan 6-7
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '75684823'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Håstensskolan 8-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '44306555'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kung Karl skola F-6 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '30677357'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sibbarps skola F-6 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '24218413'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skällinge skola F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '26737694'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rolfstorps skola F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '17803296'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Varbergs Montessoriskola
+  PeOrgNr: '7164083417'
+  Skolenhetskod: '68980561'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vidhögeskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '24688208'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkedalsskolan
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '38730714'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peder Skrivares skola Enhet 4
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54361562'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsskolan Varberg
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '52846430'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bläshammar skola F-6 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '54709952'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: LBS Kreativa Gymnasiet Varberg
+  PeOrgNr: '5564851649'
+  Skolenhetskod: '66095163'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '36022339'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Påskbergsskolan 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '50675351'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Påskbergsskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '42127916'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bosgårdsskolan 4-6
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '55731587'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bosgårdsskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '39064377'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Spannarps skola F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '45240035'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sveriges Ridgymnasium Varberg
+  PeOrgNr: '5566814504'
+  Skolenhetskod: '23517683'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '26579492'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen Varbergs kommun
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '21833095'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Munkagårdsgymnasiet
+  PeOrgNr: '2321000115'
+  Skolenhetskod: '38544187'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väröbackaskolan 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '68613823'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väröbackaskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '94908515'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vidhögeskolan 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '70460569'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Trönninge skola 4-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '71449540'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedalsskolan F-3 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '62599057'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Almers skola 4-9 och fritidshem
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '39690579'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bosgårdsskolan 7-9
+  PeOrgNr: '2120001249'
+  Skolenhetskod: '55285514'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:59:33.6106834+01:00'
+  latitude: null
+  longitude: null

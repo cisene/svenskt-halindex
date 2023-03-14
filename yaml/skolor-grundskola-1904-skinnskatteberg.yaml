@@ -1,0 +1,14 @@
+meta:
+  title: Skinnskatteberg
+  kommunkod: '1904'
+  updated: '2023-03-14T22:13:17.7560329+01:00'
+skolor:
+
+- name: Klockarbergsskolan
+  PeOrgNr: '2120002023'
+  Skolenhetskod: '62958817'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:17.7560329+01:00'
+  latitude: null
+  longitude: null

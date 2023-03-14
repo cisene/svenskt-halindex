@@ -1,0 +1,86 @@
+meta:
+  title: Färgelanda
+  kommunkod: '1439'
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+skolor:
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '85514600'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stigens Friskola AB
+  PeOrgNr: '5568559917'
+  Skolenhetskod: '87759640'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Järbo friskola
+  PeOrgNr: '8024478847'
+  Skolenhetskod: '39533335'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valboskolan 1-9 Särskola
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '52023534'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ödeborgs skola
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '35061408'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högsäter skola
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '83198353'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valboskolan 1-6
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '99759166'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Höjdenskolan
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '79397845'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valboskolan 7-9
+  PeOrgNr: '2120001421'
+  Skolenhetskod: '17089857'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:01:37.8251734+01:00'
+  latitude: null
+  longitude: null

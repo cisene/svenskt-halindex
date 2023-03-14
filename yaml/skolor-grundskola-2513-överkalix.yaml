@@ -1,0 +1,59 @@
+meta:
+  title: Överkalix
+  kommunkod: '2513'
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+skolor:
+
+- name: Strandskolan
+  PeOrgNr: '2120002684'
+  Skolenhetskod: '50308658'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120002684'
+  Skolenhetskod: '18624338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åkerskolan
+  PeOrgNr: '2120002684'
+  Skolenhetskod: '57062315'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieskolan
+  PeOrgNr: '2120002684'
+  Skolenhetskod: '55295253'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning
+  PeOrgNr: '2120002684'
+  Skolenhetskod: '68929113'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null
+
+- name: Överkalix Friskola
+  PeOrgNr: '8982006515'
+  Skolenhetskod: '13342436'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:25:06.6683030+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,257 @@
+meta:
+  title: Kiruna
+  kommunkod: '2584'
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+skolor:
+
+- name: Sameskolan Kiruna
+  PeOrgNr: '2021004631'
+  Skolenhetskod: '28247720'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kiruna Lärcentra
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '23468345'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kiruna Lärcentra, SFI
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '94935572'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kiruna Lärcentra., särvux
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '15232074'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nya Raketskolan 7-9
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '43351950'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lapplands Gymnasium Kiruna enh. 1
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '53630885'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lapplands Gymnasium Kiruna enh. 3
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '53131149'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergaskolan
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '89218995'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karesuando skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '79467784'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svappavaara skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '21462543'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tuolluvaara skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '84886020'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittangi skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '76314428'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Övre Soppero skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '30318937'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Luossavaaraskolan
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '21524917'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lapplands Gymnasium Kiruna enh. 2
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '53048977'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rymdgymnasiet
+  PeOrgNr: '5565528022'
+  Skolenhetskod: '90006712'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högalidskolan 4-6
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '72627616'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högalidskolan 7-9
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '80693905'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Triangelskolan
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '14938538'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sameskolan Karesuando
+  PeOrgNr: '2021004631'
+  Skolenhetskod: '75113975'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid Vargen
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '73281949'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid Vita vidderna
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '58205262'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Abisko skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '76026322'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central insamlingsenhet
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '35374123'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jukkasjärvi skola
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '60427298'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nya Raketskolan f-3
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '88461066'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nya Raketskolan 4-6
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '73233718'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null
+
+- name: Specialped. Verksamh.
+  PeOrgNr: '2120002783'
+  Skolenhetskod: '93539584'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:26:50.0771521+01:00'
+  latitude: null
+  longitude: null

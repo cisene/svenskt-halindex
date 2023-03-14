@@ -1,0 +1,50 @@
+meta:
+  title: Åsele
+  kommunkod: '2463'
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+skolor:
+
+- name: Åsele Centralskola åk 1 - 9
+  PeOrgNr: '2120002791'
+  Skolenhetskod: '43833784'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120002791'
+  Skolenhetskod: '94757519'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredrika skola
+  PeOrgNr: '2120002791'
+  Skolenhetskod: '56562631'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsele Centralskola förskoleklass och fritidshem
+  PeOrgNr: '2120002791'
+  Skolenhetskod: '14689627'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsele Centralskola, SFI
+  PeOrgNr: '2120002791'
+  Skolenhetskod: '17059719'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:54.0985402+01:00'
+  latitude: null
+  longitude: null

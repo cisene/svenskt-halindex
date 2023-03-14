@@ -1,0 +1,59 @@
+meta:
+  title: Orsa
+  kommunkod: '2034'
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+skolor:
+
+- name: Digerbergets skola
+  PeOrgNr: '2120002189'
+  Skolenhetskod: '89047020'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkbyns skola
+  PeOrgNr: '2120002189'
+  Skolenhetskod: '26900910'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002189'
+  Skolenhetskod: '56290112'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skattunge Friskola
+  PeOrgNr: '7696208698'
+  Skolenhetskod: '94925126'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergetskolan
+  PeOrgNr: '2120002189'
+  Skolenhetskod: '44551665'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null
+
+- name: Orsaskolan
+  PeOrgNr: '2120002189'
+  Skolenhetskod: '19694910'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:52.8579641+01:00'
+  latitude: null
+  longitude: null

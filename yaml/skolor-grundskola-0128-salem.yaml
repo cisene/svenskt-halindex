@@ -1,0 +1,104 @@
+meta:
+  title: Salem
+  kommunkod: 0128
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+skolor:
+
+- name: Söderby friskola
+  PeOrgNr: '7696016117'
+  Skolenhetskod: '56858061'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nytorpsskolan
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '36262199'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Salems vuxenutbildning
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '37705715'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI Salem
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '66489484'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rönninge gymnasium
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '98908403'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Säbyskolan
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '92406445'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rönninge skola
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '71677992'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Noblaskolan Rönninge
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '97927760'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsängsskolan
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '58385274'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Salemskolan
+  PeOrgNr: '2120002874'
+  Skolenhetskod: '51578532'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Rönninge
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '76222592'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:32:02.7470148+01:00'
+  latitude: null
+  longitude: null

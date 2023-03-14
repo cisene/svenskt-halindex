@@ -1,0 +1,50 @@
+meta:
+  title: Storfors
+  kommunkod: '1760'
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+skolor:
+
+- name: Lundsbergs grundskola
+  PeOrgNr: '8740019362'
+  Skolenhetskod: '26377128'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lundsbergs gymnasieskola
+  PeOrgNr: '8740019362'
+  Skolenhetskod: '30167976'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjurtjärns skola
+  PeOrgNr: '2120001785'
+  Skolenhetskod: '58468387'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vargbroskolan
+  PeOrgNr: '2120001785'
+  Skolenhetskod: '24306424'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kroppaskolan
+  PeOrgNr: '2120001785'
+  Skolenhetskod: '90407262'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:56.9455258+01:00'
+  latitude: null
+  longitude: null

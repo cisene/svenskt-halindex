@@ -1,0 +1,41 @@
+meta:
+  title: Dorotea
+  kommunkod: '2425'
+  updated: '2023-03-14T22:23:23.0770575+01:00'
+skolor:
+
+- name: Dorotea Lärcentrum, komvux
+  PeOrgNr: '2120002809'
+  Skolenhetskod: '82153403'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:23.0770575+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dorotea Lärcentrum särvux
+  PeOrgNr: '2120002809'
+  Skolenhetskod: '88215531'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:23.0770575+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strandenskolan F-9
+  PeOrgNr: '2120002809'
+  Skolenhetskod: '17181067'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:23.0770575+01:00'
+  latitude: null
+  longitude: null
+
+- name: Risbäck
+  PeOrgNr: '2120002809'
+  Skolenhetskod: '66468123'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:23:23.0770575+01:00'
+  latitude: null
+  longitude: null

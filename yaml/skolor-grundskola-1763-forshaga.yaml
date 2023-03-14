@@ -1,0 +1,86 @@
+meta:
+  title: Forshaga
+  kommunkod: '1763'
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+skolor:
+
+- name: ForshagaAkademin
+  PeOrgNr: '5566205737'
+  Skolenhetskod: '82163292'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '58852846'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grossbolsskolan
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '81149834'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forshaga Lärcenter LM-stadiet
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '83331030'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forshaga Lärcenter H-stadiet
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '68533503'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skivedsskolan
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '27783058'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dejeskolan 4-9
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '48228294'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dejeskolan F-3
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '63021199'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olsätersskolan
+  PeOrgNr: '2120001819'
+  Skolenhetskod: '93730554'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:09:27.9519265+01:00'
+  latitude: null
+  longitude: null

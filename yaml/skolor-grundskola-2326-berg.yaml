@@ -1,0 +1,104 @@
+meta:
+  title: Berg
+  kommunkod: '2326'
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+skolor:
+
+- name: Kövra Byskola
+  PeOrgNr: '5567657316'
+  Skolenhetskod: '82304602'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rätans skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '28750488'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klövsjö skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '90462401'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svenstaviks skola 7-9
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '63849173'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hackås skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '70084130'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Myrvikens skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '56709330'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åsarna skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '67992279'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux Berg
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '91471473'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fjällgymnasiet
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '60743463'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungdalens skola
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '47079538'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svenstaviks skola F-6
+  PeOrgNr: '2120002502'
+  Skolenhetskod: '64147674'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:28.1917143+01:00'
+  latitude: null
+  longitude: null

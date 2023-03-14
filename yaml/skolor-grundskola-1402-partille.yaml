@@ -1,0 +1,230 @@
+meta:
+  title: Partille
+  kommunkod: '1402'
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+skolor:
+
+- name: 'Vuxenutbildningen '
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '98216980'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '37746724'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '59103507'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Partille gymnasiesärskola
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '69452971'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skulltorps skola F-5
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '12767465'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillegårdsskolan F-5
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '10695761'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallhamra skola 7-9
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '92848832'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stadsparksskolan
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '57412559'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Partille Gymnasium
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '61229217'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öjersjö Brunn skola B F-4
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '85130794'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öjersjö Storegård skola 5-9
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '19873115'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jonsereds skola F-5
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '60280777'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Casa Montessori
+  PeOrgNr: '8572054610'
+  Skolenhetskod: '68358072'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Partille gymnasium, särvux
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '85560219'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enheten för flerspråkighet
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '99634838'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallhamra skola F-3
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '65226712'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furulunds skola F-6
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '69175568'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björndammens skola F-6
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '54361227'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Partille Grundsärskola
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '78504919'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallhamra skola 4-6
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '67190366'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lexby skola 6-9
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '51610240'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ugglums skola F-4
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '84718487'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ugglums skola 5-9
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '78100490'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Oxledsskolan '
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '88535398'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öjersjö Brunn skola A F-4
+  PeOrgNr: '2120001272'
+  Skolenhetskod: '67739660'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:00:04.7784535+01:00'
+  latitude: null
+  longitude: null

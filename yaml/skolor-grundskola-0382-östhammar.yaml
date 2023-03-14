@@ -1,0 +1,149 @@
+meta:
+  title: Östhammar
+  kommunkod: 0382
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+skolor:
+
+- name: Olandsskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '90876801'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Wilhelm Haglunds Gymnasium
+  PeOrgNr: '5560614041'
+  Skolenhetskod: '95069937'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Edsskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '37217528'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskola
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '86484303'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '12798949'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '42283307'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särvux
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '44273650'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Österbyskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '57548666'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallonskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '95523275'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öregrunds skola
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '93413393'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vattenfallgymnasiet
+  PeOrgNr: '5566597885'
+  Skolenhetskod: '34739511'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bruksgymnasiet/Gimo utb.centr.
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '51023367'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Frösåkersskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '98029852'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekeby skola
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '71534291'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vretaskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '27232649'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kristinelundskolan
+  PeOrgNr: '2120000290'
+  Skolenhetskod: '18135815'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:33.8872962+01:00'
+  latitude: null
+  longitude: null

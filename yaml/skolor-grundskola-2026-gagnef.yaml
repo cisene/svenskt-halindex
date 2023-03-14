@@ -1,0 +1,104 @@
+meta:
+  title: Gagnef
+  kommunkod: '2026'
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+skolor:
+
+- name: Gymnasieutbildningen i Gagnef
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '19599583'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Djurmoskolan
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '79683330'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '39127609'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen Gagnef
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '57504072'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen Gagnef/SFI
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '93894526'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björboskola
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '39921667'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bäsnaskola
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '64837308'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Syrholnsskola
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '66641627'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Djuråsskolan F-9
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '36819574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mockfjärdsskolan
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '95610127'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolan Skeppet
+  PeOrgNr: '2120002155'
+  Skolenhetskod: '92132436'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:21.8493156+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,311 @@
+meta:
+  title: Kungälv
+  kommunkod: '1482'
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+skolor:
+
+- name: Klöverbackens skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '61511069'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olserödsskolan
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '69807369'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessoriskolan Älvkullen
+  PeOrgNr: '8533010537'
+  Skolenhetskod: '49323438'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thorildskolan 1
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '73505986'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kastellegårdsskolan 1
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '33588309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kastellegårdsskolan 2
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '68154456'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thorildskolan 2
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '15889456'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kode skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '43370798'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Friskolan i Kärna
+  PeOrgNr: '5565204129'
+  Skolenhetskod: '25790317'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kärna skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '77589196'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marstrands skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '71394657'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Diseröds skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '62418563'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunge skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '33785990'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hålta skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '80848296'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sparråsskolan
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '28596641'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredkullaskolan ,waldorfskola,
+  PeOrgNr: '8533007038'
+  Skolenhetskod: '38353942'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Kungälv
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '69835040'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutb. i Kungälv särvux
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '22571471'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strandskolan Montessoriföreningen i Kungälv
+  PeOrgNr: '8533007004'
+  Skolenhetskod: '21917957'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Trekungagymnasiet gysär Individuella och nationella
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '92937319'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutb. i Kungälv SFI
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '44441670'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kareby skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '54878605'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flerspråksenheten
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '59498796'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fontinskolan
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '28511697'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Munkegärdeskolan
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '51596946'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandbackaskolan 1
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '68916732'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ytterbyskolan 1
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '63621283'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mimers hus Gymnasium, Skolenhet 2
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '75941223'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mimers hus Gymnasium, Skolenhet 3
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '33720955'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mimers hus Gymnasium, Skolenhet 4
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '45796620'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mimers hus Gymnasium, Skolenhet 5
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '38646067'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Mimers hus Gymnasium, Skolenhet 1 '
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '90435000'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandbackaskolan 2
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '76266894'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kullens skola
+  PeOrgNr: '2120001371'
+  Skolenhetskod: '52844016'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:05:29.7291935+01:00'
+  latitude: null
+  longitude: null

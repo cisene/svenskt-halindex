@@ -1,0 +1,212 @@
+meta:
+  title: Danderyd
+  kommunkod: '0162'
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+skolor:
+
+- name: Danderyds Montessoriskola
+  PeOrgNr: '5591658975'
+  Skolenhetskod: '59848694'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elevverket
+  PeOrgNr: '5563210706'
+  Skolenhetskod: '95940425'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vendestigens skola
+  PeOrgNr: '5565422762'
+  Skolenhetskod: '57106833'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baldersskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '95432644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Äventyrsskolan, Danderyd
+  PeOrgNr: '5565092482'
+  Skolenhetskod: '19443193'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mörbyskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '97174070'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ösbyskolan
+  PeOrgNr: '5566994009'
+  Skolenhetskod: '78808043'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kevingeskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '95676943'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Viktor Rydberg gy. Djursholm
+  PeOrgNr: '8120005650'
+  Skolenhetskod: '45164827'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Viktor Rydbergs Samskola
+  PeOrgNr: '8120005650'
+  Skolenhetskod: '13493243'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kevinge grundsärskola
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '94643166'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Danderyds Gymnasium Gymnasiesärskola
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '20463290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vasaskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '43289917'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fribergaskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '42986451'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekebyskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '94987345'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enebybergs skola
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '63581692'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '89317818'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Långängsskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '10735290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stocksundsskolan
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '72370577'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enheten för flerspråkighet
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '29510009'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marina läroverket i Danderyd
+  PeOrgNr: '5565160669'
+  Skolenhetskod: '82814120'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: British International School
+  PeOrgNr: '8024777289'
+  Skolenhetskod: '66620411'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Danderyds Gymnasium
+  PeOrgNr: '2120000126'
+  Skolenhetskod: '30866364'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:39:17.1423630+01:00'
+  latitude: null
+  longitude: null

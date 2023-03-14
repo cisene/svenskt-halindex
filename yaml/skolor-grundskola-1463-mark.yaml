@@ -1,0 +1,302 @@
+meta:
+  title: Mark
+  kommunkod: '1463'
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+skolor:
+
+- name: Stommenskolan 4-6
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '43553236'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritslaskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '33369644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Mark
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '55112937'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsbrynets resursskola
+  PeOrgNr: '5564997319'
+  Skolenhetskod: '30894215'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessoriskolan Pärlan
+  PeOrgNr: '5565933503'
+  Skolenhetskod: '80072686'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Leteboskolan
+  PeOrgNr: '5569175663'
+  Skolenhetskod: '79844557'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torestorpskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '53345308'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Öxabäckskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '30040859'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '13666864'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisning
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '85151844'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömma Naturbrukscentrum
+  PeOrgNr: '5590488465'
+  Skolenhetskod: '93486713'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sätilaskolan F-6
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '34605264'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björketorpskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '27924449'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fotskälskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '75172236'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tingvallaskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '73187491'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ubbhultskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '12813506'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hyssnaskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '84184524'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marks Gymnasiesärskola
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '20446679'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömskolan 4-6
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60712249'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömskolan F-3
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60796098'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjöbyskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '35972293'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sätilaskolan 7-9
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '34246393'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '19909922'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Örbyskolan F-3
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '46133825'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stommenskolan F-3
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '44027818'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stommenskolan grundsär
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '29743734'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lyckeskolan grundsär
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '29031023'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marks Gymnasieskola, enhet A
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60294546'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Örbyskolan 4-6
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '45813524'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marks Gymnasieskola, enhet C
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60155358'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marks Gymnasieskola, enhet D
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60878131'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marks Gymnasieskola, enhet B
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '60183866'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lyckeskolan
+  PeOrgNr: '2120001504'
+  Skolenhetskod: '10428442'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:03:52.4553729+01:00'
+  latitude: null
+  longitude: null

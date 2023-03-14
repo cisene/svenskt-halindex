@@ -1,0 +1,185 @@
+meta:
+  title: Sala
+  kommunkod: '1981'
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+skolor:
+
+- name: Varmsätra skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '26966214'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ransta skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '64471680'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ösbygymnasiet
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '54764253'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kungsängsgymnasiet
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '87859089'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ösby gymnasiesärskola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '23593343'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Enh. f. vuxnas lärande, komvux
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '12604902'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kilbo skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '26414444'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '61846061'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallaskolan 7-9
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '62995298'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekebyskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '62812509'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '16338634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hedens skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '84214609'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärkbacksskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '74567533'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallaskolan F-6
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '40908531'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerfärnebo skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '52288457'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åby skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '45723714'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åkraskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '91839062'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängshagenskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '96344566'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '61230291'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kila skola
+  PeOrgNr: '2120002098'
+  Skolenhetskod: '46962800'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:19.8626270+01:00'
+  latitude: null
+  longitude: null

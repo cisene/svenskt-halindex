@@ -1,0 +1,1184 @@
+meta:
+  title: Uppsala
+  kommunkod: 0380
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+skolor:
+
+- name: Celsiusskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '47844862'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgarskolorna                  Kyrkskolan 7-9
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '35561766'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Samsaskolan grundskola
+  PeOrgNr: '5565990545'
+  Skolenhetskod: '49262000'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ramsta skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '72049334'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skuttunge skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '28248660'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Valsätraskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '56446888'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vattholmaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '50591943'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Manar Al-Houda Sv-arab.skola
+  PeOrgNr: '8176031253'
+  Skolenhetskod: '64800703'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Labanskolan grundsärskola
+  PeOrgNr: '5565701082'
+  Skolenhetskod: '64230088'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Labanskolan gymnasiesärskola
+  PeOrgNr: '5565701082'
+  Skolenhetskod: '11111196'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Magelungens Grundskola Uppsala
+  PeOrgNr: '5564891447'
+  Skolenhetskod: '39922552'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala waldorfskola
+  PeOrgNr: '8176031154'
+  Skolenhetskod: '69405762'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eriksbergsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '18733789'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flogstaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '30742062'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala Enskilda Skola
+  PeOrgNr: '8176052770'
+  Skolenhetskod: '43465597'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Magelungens Gymnasium Uppsala
+  PeOrgNr: '5564891447'
+  Skolenhetskod: '45466628'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Palmbladsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '40275917'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grillska Gymnasiet Uppsala
+  PeOrgNr: '8020170794'
+  Skolenhetskod: '36480690'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '70000757'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska skolan Uppsala
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '83401016'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunabergsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '54742485'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malmaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '43235171'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Storvretaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '21818354'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Katarinaskolan
+  PeOrgNr: '8176030867'
+  Skolenhetskod: '71951060'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Realgymnasiet Uppsala
+  PeOrgNr: '5565715892'
+  Skolenhetskod: '31112935'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgarskolorna Emanuelskolan
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '94095282'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Danmarks skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '72888222'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gamla Uppsala skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '47022598'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Pluggparadiset
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '74661728'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala yrkesgymnasium Jälla
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '20173336'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: The British School in Uppsala (BSU)
+  PeOrgNr: '5591668248'
+  Skolenhetskod: '76938456'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kajan Friskola AB
+  PeOrgNr: '5566945795'
+  Skolenhetskod: '82442662'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosendalsgymnasiet
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '26957025'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lundellska skolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '59599256'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ellen Fries gymnasium
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '56050416'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Johannesbäcksskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '76127242'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gåvsta skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '12275851'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vaksalaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '28006480'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utbildnings- och jobbcenter 1
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '31656756'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hågadalsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '60438370'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: CULTUS Gymnasieskola
+  PeOrgNr: '8176007055'
+  Skolenhetskod: '22239675'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fyrisskolan GS
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '48002134'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala yrkesgymnasium Jälla GS
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '12599004'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala Musikklasser
+  PeOrgNr: '8176054917'
+  Skolenhetskod: '89387408'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eriksberg grundsärskola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '32415691'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Raoul Wallenbergskolan Uppsala
+  PeOrgNr: '5566740113'
+  Skolenhetskod: '56867001'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagmarkens skola
+  PeOrgNr: '5566688361'
+  Skolenhetskod: '78556653'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Johannesbäck grundsärskola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '88818111'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Årsta grundsärskola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '24074597'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Stenhagen grundsärskola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '30416183'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala estetiska gymnasium
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '43277545'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nåntunaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '30054341'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: NTI Gymnasiet Uppsala
+  PeOrgNr: '5565970471'
+  Skolenhetskod: '52048443'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bälinge skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '13951452'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jumkils skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '73816603'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergstrands Gymnasium Uppsala
+  PeOrgNr: '5566753736'
+  Skolenhetskod: '39147056'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Almtunaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '13431400'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Gymnasiet
+  PeOrgNr: '8176007055'
+  Skolenhetskod: '32995170'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: MoA Lärcentrum
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '36051862'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Katedralskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '32550660'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Musiklådan
+  PeOrgNr: '8176032319'
+  Skolenhetskod: '58103420'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesgymnasiet Uppsala
+  PeOrgNr: '5566139290'
+  Skolenhetskod: '49872493'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsskolan Uppsala
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '73947432'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsskolan Uppsala Norra
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '73806643'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala Montessoriskola
+  PeOrgNr: '5565527354'
+  Skolenhetskod: '60186012'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindbackens skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '59963808'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utbildnings- och jobbcenter 2
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '13903981'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: JENSEN Gymnasium Uppsala
+  PeOrgNr: '5566358759'
+  Skolenhetskod: '61674097'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: JENSEN grundskola Uppsala
+  PeOrgNr: '5566358759'
+  Skolenhetskod: '25730446'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvarngärdesskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '61003071'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gluntens Montessoriskola
+  PeOrgNr: '5592659667'
+  Skolenhetskod: '57484572'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgarskolorna     Fridhemsskolan F-6
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '81985750'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgarskolorna     Källskolan F-6
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '68552718'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgarskolorna Trädgårdsskolan F-6
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '62529077'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Almunge skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '99056007'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Funbo skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '19791387'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gottsundaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '93042073'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björklinge skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '46263319'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: ProCivitas Privata Gymnasium Uppsala
+  PeOrgNr: '5566157102'
+  Skolenhetskod: '69618988'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekuddenskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '76304810'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eriksskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '25794770'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredrika Bremerskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '65192477'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Knutby skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '22200527'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Liljeforsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '51741765'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Länna skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '30158985'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sverkerskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '21969379'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nannaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '29677535'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tiundaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '53847396'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Treklangens skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '30655993'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosendals skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '43933186'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tuna skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '26666728'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skyttorps skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '54326087'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: von Bahrs skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '17250578'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stavby skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '72802066'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Årstaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '79320489'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stordammens skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '95132430'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra Stenhagenskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '48134074'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunnerstaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '99536619'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Växthusets skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '87542831'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Praktiska Gymnasiet Uppsala
+  PeOrgNr: '5562575786'
+  Skolenhetskod: '69865450'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vänge skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '61824203'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsävjaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '92938213'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Järlåsa skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '58543554'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Börje skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '60543153'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Stenhagenskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '18020988'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Extern vuxenutbildning
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '10129649'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Imanskolan
+  PeOrgNr: '8176034323'
+  Skolenhetskod: '65459851'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gränbyskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '60782519'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Amerikanska Gymnasiet Uppsala
+  PeOrgNr: '5590415591'
+  Skolenhetskod: '42063970'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Spec.ped.enheten, konsultstöd
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '99027998'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fyrisskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '72984079'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Uppsala yrkesgymnasium Ekeby
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '37316242'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Business School Uppsala
+  PeOrgNr: '5566139290'
+  Skolenhetskod: '90509211'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Kommunal verksamhet
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '33259488'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '35789407'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '63008949'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Drottning Blankas Gymnasieskola Uppsala
+  PeOrgNr: '5565789129'
+  Skolenhetskod: '55472112'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: JENSEN grundskola Uppsala 2
+  PeOrgNr: '5566358759'
+  Skolenhetskod: '97879425'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Berga grundsärskola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '49699864'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Domarringens skola
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '57903436'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ångelstaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '64760168'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ärentunaskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '64800741'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkvallsskolan
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '89112467'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsgymnasiet Uppsala
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '93488613'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ansgargymnasiet
+  PeOrgNr: '5565835146'
+  Skolenhetskod: '74560191'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hermods SFI
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '83919903'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergstrands vuxenutbildning
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '13311362'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Movant
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '79992833'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Maskinentreprenörerna Vuxenutbildning
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '48985780'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hermods vux grund och gy
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '75845809'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prövningsenhet
+  PeOrgNr: '2120003005'
+  Skolenhetskod: '49201812'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T15:42:01.8575754+01:00'
+  latitude: null
+  longitude: null

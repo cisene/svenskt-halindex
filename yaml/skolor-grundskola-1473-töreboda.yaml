@@ -1,0 +1,104 @@
+meta:
+  title: Töreboda
+  kommunkod: '1473'
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+skolor:
+
+- name: Moholms skola
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '65599852'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredsbergs Friskola
+  PeOrgNr: '7696207443'
+  Skolenhetskod: '91055758'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björkängsskolan
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '46536338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älgarås skola
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '55688408'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Naturbruksskolan Sötåsen
+  PeOrgNr: '2321000131'
+  Skolenhetskod: '25698509'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bryggans skola
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '92335332'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, Kanalskolan
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '16455233'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymn.utb. Töreboda Kanalskola
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '57446690'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kilenskolan
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '13492888'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux Kanalskolan, särvux
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '57346057'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null
+
+- name: Töreboda Centralskola
+  PeOrgNr: '2120001678'
+  Skolenhetskod: '94707451'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:56.8796620+01:00'
+  latitude: null
+  longitude: null

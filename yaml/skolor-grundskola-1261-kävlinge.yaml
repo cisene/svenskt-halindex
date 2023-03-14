@@ -1,0 +1,167 @@
+meta:
+  title: Kävlinge
+  kommunkod: '1261'
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+skolor:
+
+- name: Rinnebäcksskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '56540171'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Barsebäcks Montessoriskola
+  PeOrgNr: '7696006191'
+  Skolenhetskod: '22957852'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Annelundsskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '82593738'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Korsbackaskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '46107605'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tolvåkerskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '13578112'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kävlinge Lärcentrum SFI
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '97284851'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kävlinge Lärcentrum, Gymnasieskola
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '88192227'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kävlinge Lärcentrum, Komvux
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '60231511'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: SSK Stöd
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '16659634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dösjebroskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '26281194'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmål
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '12302785'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söderparksskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '48891355'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skönadalsskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '26357566'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Noblaskolan Löddeköpinge
+  PeOrgNr: '5569320699'
+  Skolenhetskod: '19504051'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lackalängaskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '27951396'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungenskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '66829136'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyvångsskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '23990749'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olympiaskolan
+  PeOrgNr: '2120001058'
+  Skolenhetskod: '54902755'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:54:27.1915255+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,104 @@
+meta:
+  title: Pajala
+  kommunkod: '2521'
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+skolor:
+
+- name: Gårdbyskolan
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '55662841'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kangos Kultur- o ekologiskola
+  PeOrgNr: '8976008238'
+  Skolenhetskod: '35837794'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Pajala Centralskola
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '12443258'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sattajärvi skola
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '36111143'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tärendö Centralskola
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '37347252'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lapplands Gymnasium Pajala
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '75324351'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Smedskolan
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '94203685'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Pajala Lärcentra
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '38795559'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Pajala kommun
+  PeOrgNr: '2120002718'
+  Skolenhetskod: '19748553'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Pajala Lärcentra SFI
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '21850269'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null
+
+- name: Pajala Lärcentra särvux
+  PeOrgNr: '2220000760'
+  Skolenhetskod: '47353164'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:37.6948701+01:00'
+  latitude: null
+  longitude: null

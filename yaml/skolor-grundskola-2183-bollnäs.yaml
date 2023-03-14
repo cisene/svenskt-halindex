@@ -1,0 +1,239 @@
+meta:
+  title: Bollnäs
+  kommunkod: '2183'
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+skolor:
+
+- name: FRI att VÄXA Växsjö Byskola
+  PeOrgNr: '5568021496'
+  Skolenhetskod: '38769534'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Edenskolan
+  PeOrgNr: '8865009610'
+  Skolenhetskod: '69498258'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hälsingegymnasiet
+  PeOrgNr: '5567600886'
+  Skolenhetskod: '91748148'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhamre skola F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '29124453'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux RO12
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '52024359'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI, RO13
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '10293256'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kilafors skola F-9
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '41793797'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torsbergsgymnasiet RO5
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '83474173'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Granbergsskolan F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '72687432'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '24421344'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nytorps Hästgymnasium
+  PeOrgNr: '5569063455'
+  Skolenhetskod: '80167319'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Friskolan Lust & Lära
+  PeOrgNr: '5567748149'
+  Skolenhetskod: '91187921'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Höghammargymnasiet RO2
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '82501985'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torsbergsgymnasiet RO4
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '73171934'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Friskolan Nytorp
+  PeOrgNr: '5568813561'
+  Skolenhetskod: '21567982'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arbråskolan F-9
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '75662206'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kilbergsskolan F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '92407606'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rengsjöskolan F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '43389766'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallsta skola F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '81577420'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sörängs skola
+  PeOrgNr: '5568793417'
+  Skolenhetskod: '69693147'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alirskolan 7-9
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '65024773'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Höghammargymnasiet RO1
+  PeOrgNr: '2220003111'
+  Skolenhetskod: '43055357'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björktjära skola F-6
+  PeOrgNr: '2120002361'
+  Skolenhetskod: '44164435'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Naturlära i Hälsingland
+  PeOrgNr: '5568554314'
+  Skolenhetskod: '49379603'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västansjö skola
+  PeOrgNr: '5569182784'
+  Skolenhetskod: '95802522'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null
+
+- name: Segersta skola
+  PeOrgNr: '5592527765'
+  Skolenhetskod: '74734342'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:19:01.4960679+01:00'
+  latitude: null
+  longitude: null

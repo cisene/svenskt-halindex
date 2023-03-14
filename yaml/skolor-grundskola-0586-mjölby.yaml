@@ -1,0 +1,212 @@
+meta:
+  title: Mjölby
+  kommunkod: 0586
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+skolor:
+
+- name: Lagmansskolan Beta MH
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '10609045'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vifolkaskolan F-6 LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '71079812'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lagmansskolan Alfa MH
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '66224705'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Egebyskolan L
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '28993546'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centralt stöd
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '20324944'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mjölby gymnasium, vuxenutbildningen
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '13706881'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Veta skola LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '99363913'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klämmestorpsskolan LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '99557550'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjälbotullskolan LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '42116655'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindbladsskolan LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '85620980'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vasaskolan L
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '34622909'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dackeskolan MG4
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '67752682'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Trojenborgsskolan MH
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '37310404'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kungshögaskolan MG1
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '31870541'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kungshögaskolan MG2
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '71160225'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dackeskolan MG3
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '80376589'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Blåklintskolan 7-9
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '27259736'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Väderstad skola LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '45401314'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Blåklintskolan 4-6
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '49499996'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Blåklintskolan F-3
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '92463571'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vifolkaskolan 7-9
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '16727370'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Normlösa skola
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '37981902'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra Hargs skola LM
+  PeOrgNr: '2120000480'
+  Skolenhetskod: '92579261'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:22.6125937+01:00'
+  latitude: null
+  longitude: null

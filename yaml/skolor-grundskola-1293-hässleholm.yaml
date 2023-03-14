@@ -1,0 +1,329 @@
+meta:
+  title: Hässleholm
+  kommunkod: '1293'
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+skolor:
+
+- name: Hässleholms Tekniska Skola
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '92858957'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '83851438'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mala skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '49702354'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Silviaskolan F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '65408331'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjärnums skola F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '65212509'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grönängsskolan F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '85679977'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittsjö skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '16939144'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ballingslövs skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '97094194'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Farstorps skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '16744637'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hästveda skola F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '56398338'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söderparkskolan F-3
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '55815171'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finja skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '67308549'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stoby skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '68970313'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungdalaskolan F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '37198266'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerskolan F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '75318783'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Furutorpskolan 4-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '78602001'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norrängsskolan
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '33678402'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Läredaskolan F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '29689372'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Häglinge förskola och fritidshem
+  PeOrgNr: '7696067532'
+  Skolenhetskod: '73692368'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: T4 skolan Grundsärskola
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '31764864'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jacobsskolan
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '46660042'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Hässleholm
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '79716826'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Röinge skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '69162574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Linnéskolan F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '84432632'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sfi Hässleholms Kommun
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '21647699'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux GY
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '50872785'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Röke skola F-6
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '24099280'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra Torups skola F-3
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '83016261'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lejonskolan F-5
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '57945497'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tormestorps skola F-5
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '87274697'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vannarödsskolan 6-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '93845278'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hässleholms Montessoriskola F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '28804882'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyringe skola F-9
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '98058756'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Thoren Framtid i Hässleholm
+  PeOrgNr: '5567497051'
+  Skolenhetskod: '79864142'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux GR
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '85496728'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux LÄ
+  PeOrgNr: '2120000985'
+  Skolenhetskod: '25828183'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:31.3789643+01:00'
+  latitude: null
+  longitude: null

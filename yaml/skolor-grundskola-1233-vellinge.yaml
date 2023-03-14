@@ -1,0 +1,176 @@
+meta:
+  title: Vellinge
+  kommunkod: '1233'
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+skolor:
+
+- name: Framtidskompassen i Vellinge
+  PeOrgNr: '5567865943'
+  Skolenhetskod: '15068529'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skanörs skola
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '46945514'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Håslövs byaskola
+  PeOrgNr: '5564946530'
+  Skolenhetskod: '56103239'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '71816269'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Framtidskomp. V Ingelstad sk
+  PeOrgNr: '5567865943'
+  Skolenhetskod: '44979671'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Herrestorpskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '16650439'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungenskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '41197162'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vellinge Lärcenter SFI
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '67209078'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vellinge Lärcenter, komvux
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '44264156'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sundsgymnasiet, särvux
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '42112735'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tångvallaskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '58994715'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södervångskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '28023150'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängdalaskolan
+  PeOrgNr: '5565279931'
+  Skolenhetskod: '11885832'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skanör Falsterbo Montessorisk.
+  PeOrgNr: '5566270095'
+  Skolenhetskod: '46725455'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stora Hammars skola
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '24181728'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Henriksdalskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '17970468'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hököpinge skola
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '10938309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sandeplanskolan
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '71367825'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sundsgymnasiet
+  PeOrgNr: '2120001033'
+  Skolenhetskod: '31975673'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.3895832+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,122 @@
+meta:
+  title: Ovanåker
+  kommunkod: '2121'
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+skolor:
+
+- name: Alftaskolan F-6
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '54774286'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alftaskolan 7-9
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '92304123'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Celsiusskolan 7-9
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '43362307'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Celsiusskolan F-6
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '63488719'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Ovanåker/Svenska för invandrare
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '39109900'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rotebergs skola
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '39130316'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutb. i Ovanåker, särvux
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '70944634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Knåda skola
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '21674603'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Voxnadalens gymnasium
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '67071618'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Ovanåker
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '91977932'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Runemo skola
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '24030299'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Viksjöfors skola
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '44977557'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillboskolan
+  PeOrgNr: '2120002304'
+  Skolenhetskod: '85584111'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:17:57.0621835+01:00'
+  latitude: null
+  longitude: null

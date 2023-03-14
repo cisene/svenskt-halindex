@@ -1,0 +1,383 @@
+meta:
+  title: Lidköping
+  kommunkod: '1494'
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+skolor:
+
+- name: Rudenschöldskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '52152242'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Örslösa skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '94298280'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 3
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '61161774'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '47190801'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Otterstad skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '39219577'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Månesköldskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '47317570'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredriksdalskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '25486432'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lilleskogs skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '10100155'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Råda skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '75230575'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenhammarskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '65318157'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vinningaskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '95001615'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Fredriksdalskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '71784328'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 1
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '89807183'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, Gymnasiesärskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '97709129'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenportskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '38545211'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östbyskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '12159058'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Lidköping SFI
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '80555928'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 2
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '86724994'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 5
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '39179525'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 4
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '86158933'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsenheten
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '89149179'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Wennerbergskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '12640633'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Lidköping Yrkesutbildning
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '86418395'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: De la Gardiegymnasiet, enhet 6
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '14102256'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Majåkerskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '61093956'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tuns skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '53155784'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Broholmskolan
+  PeOrgNr: '7696081319'
+  Skolenhetskod: '98083121'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sjölunda skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '19737840'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Raoul Wallenbergskolan Lidköping
+  PeOrgNr: '5591438618'
+  Skolenhetskod: '11340770'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Essunga yrkesutbildning
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '30342921'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Lidköping Särvux
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '72061202'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Vara Särvux
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '72323664'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Essunga SFI
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '12592520'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Essunga SVA/Grund, Orienteringskurser
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '15916574'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Lidköping SVA/Grund, Orienteringskurser
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '14823055'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Salebyskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '59324900'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Järpås skola
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '31366755'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalängskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '37707717'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lidåkerskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '66892094'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Resursskolan
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '92466719'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Essunga grund/gy
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '84021583'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Västra Skaraborg, Lidköping grund/gy
+  PeOrgNr: '2120001694'
+  Skolenhetskod: '97152510'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:23.7204726+01:00'
+  latitude: null
+  longitude: null

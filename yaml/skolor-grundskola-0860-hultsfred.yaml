@@ -1,0 +1,140 @@
+meta:
+  title: Hultsfred
+  kommunkod: 0860
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+skolor:
+
+- name: Hultsfreds gymnasium 1
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '47046103'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hultsfreds gymnasium 2
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '56664512'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Albäcksskolan 2
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '84230115'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindblomskolan 3
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '44239903'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hultsfreds gymnasium 3
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '38167912'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hultsfreds vuxenutbildning
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '77689870'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindblomskolan 2
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '82426094'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Albäcksskolan 1
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '55252119'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Emådalskolan
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '74166555'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Järnforsens skola
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '81121604'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Silverdalens skola
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '18484321'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vena skola
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '81646559'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Målilla skola
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '41017199'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nya Centralskolan i Virserum AB
+  PeOrgNr: '5568088743'
+  Skolenhetskod: '12289594'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindblomskolan 1
+  PeOrgNr: '2120000712'
+  Skolenhetskod: '31596589'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:41.6288891+01:00'
+  latitude: null
+  longitude: null

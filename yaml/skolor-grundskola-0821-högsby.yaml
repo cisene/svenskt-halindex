@@ -1,0 +1,95 @@
+meta:
+  title: Högsby
+  kommunkod: 0821
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+skolor:
+
+- name: Högsby utbildningscenter
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '67783774'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högsby utbildningscenter, SFI
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '61811703'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '48843644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '74961274'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tallåsskolan 1-6
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '84104026'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fröviskolan 1-6
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '47445952'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fröviskolan 7-9
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '78308250'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skyttefällaskolan 1-3
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '20587927'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fagerhults skola 1-6
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '74040447'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ugglemoskolan 1-6
+  PeOrgNr: '2120000688'
+  Skolenhetskod: '69535124'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:50:10.6878172+01:00'
+  latitude: null
+  longitude: null

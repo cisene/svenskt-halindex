@@ -1,0 +1,131 @@
+meta:
+  title: Arboga
+  kommunkod: '1984'
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+skolor:
+
+- name: Medåkers Friskola
+  PeOrgNr: '7696383129'
+  Skolenhetskod: '53910317'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vasagymnasiet
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '71262305'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '66619965'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brattbergsskolan
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '77132043'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ladubacksskolan
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '76878404'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nybyholmsskolan
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '80553326'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '36800413'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stureskolan
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '13854755'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gäddgårdsskolan 7-9
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '65483259'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, komvux
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '13234434'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gäddgårdsskolan F-6
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '40576446'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Götlunda skola
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '56897691'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, SFI
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '55879287'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning, Särvux
+  PeOrgNr: '2120002122'
+  Skolenhetskod: '16490035'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:50.8544488+01:00'
+  latitude: null
+  longitude: null

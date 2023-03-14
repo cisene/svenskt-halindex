@@ -1,0 +1,203 @@
+meta:
+  title: Finspång
+  kommunkod: '0562'
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+skolor:
+
+- name: Central rapportering av modersmålspersonal
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '61886556'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Curt Nicolin-gymnasiet
+  PeOrgNr: '5566431044'
+  Skolenhetskod: '95683850'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brenäs skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '95938848'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Storängsskolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '50531913'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rejmyre skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '60106183'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergska gymnasiet Bildningen
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '24273261'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björke skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '53733869'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finspångs vuxenutbildning
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '15130552'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svälthagsskolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '69570704'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grosvadskolan Nord
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '48774912'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grosvadskolan Syd
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '40732962'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grytgöls skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '43897173'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hällestads skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '98557587'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhemsskolan 7-9
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '65487720'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyhemsskolan F-6
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '94721000'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Viggestorpsskolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '15534344'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Högalidsskolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '34833593'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lotorps skola
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '55248937'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särskolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '85694598'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljusfalls friskola
+  PeOrgNr: '7696105282'
+  Skolenhetskod: '52689015'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergska gymnasiet Bergska skolan
+  PeOrgNr: '2120000423'
+  Skolenhetskod: '17643936'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mo Gård Gymnasiesärskola
+  PeOrgNr: '5564406253'
+  Skolenhetskod: '52688879'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:45:09.9697506+01:00'
+  latitude: null
+  longitude: null

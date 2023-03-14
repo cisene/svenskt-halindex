@@ -1,0 +1,446 @@
+meta:
+  title: Östersund
+  kommunkod: '2380'
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+skolor:
+
+- name: Mimergården
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '53882684'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tavelbäcksskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '62727103'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '15392571'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östersunds Waldorfskola
+  PeOrgNr: '5566578307'
+  Skolenhetskod: '58288551'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymnasiesärskola
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '52467952'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmål
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '15826117'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Vux Östersund
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '60188309'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odensalaskolans grundsärskola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '75967845'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 1A
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '38880984'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 2B
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '93779220'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 1B
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '28872974'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Fyrvalla 3A
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '32239920'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Fyrvalla 3C
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '33467604'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '65831760'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 2A
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '18686599'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kastalskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '22091017'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lugnviksskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '42641767'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallaskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '90874950'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 1E
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '69812576'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Östersund
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '61128264'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 2C
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '77797484'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 2D
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '53279140'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Böle Byskola
+  PeOrgNr: '5566304613'
+  Skolenhetskod: '59115663'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 1C
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '85760240'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Fyrvalla 3B
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '68310175'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östersunds Gymnasieskola
+  PeOrgNr: '5567212641'
+  Skolenhetskod: '47559319'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Östersund
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '58922041'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fagervallsskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '48088172'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sörgårdsskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '94294521'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fåker skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '53530516'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Odensalaskolans grundskola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '92218121'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arnljotskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '29327326'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bringåsens skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '25996230'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ångsta skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '19688519'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Häggenås skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '91138542'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillsjöskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '46449974'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fjällängsskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '73770265'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marieby skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '88411191'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Orrvikens skola
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '83077602'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norra Skolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '42715994'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Storvikenskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '13867530'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torvallaskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '56710032'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elevhälsan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '44362085'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Treälvsskolan '
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '77460055'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ängsmogården
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '57462607'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jämtlands Gymn, Wargentin 1D
+  PeOrgNr: '2220001636'
+  Skolenhetskod: '83581734'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Prolympia, Östersund
+  PeOrgNr: '5566577705'
+  Skolenhetskod: '16858929'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östbergsskolan
+  PeOrgNr: '2120002528'
+  Skolenhetskod: '81045260'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null
+
+- name: Storsjögymnasiet, Östersund
+  PeOrgNr: '5569173635'
+  Skolenhetskod: '80785976'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:21:50.1046661+01:00'
+  latitude: null
+  longitude: null

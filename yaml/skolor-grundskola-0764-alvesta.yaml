@@ -1,0 +1,113 @@
+meta:
+  title: Alvesta
+  kommunkod: '0764'
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+skolor:
+
+- name: Prästängsskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '59234401'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hjortsbergaskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '36322706'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Grönkullaskolan '
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '66644840'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Capellaskolan 1-9
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '18578155'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Capellaskolan gy
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '16839212'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mohedaskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '69699568'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vislandaskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '88176175'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alvesta Gymnasieskola
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '75459583'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '67183147'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skatelövsskolan
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '55218290'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Friskolan Kronobergshed
+  PeOrgNr: '7696124531'
+  Skolenhetskod: '79378495'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null
+
+- name: Allbo lärcenter, komvux
+  PeOrgNr: '2120000639'
+  Skolenhetskod: '82158337'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:49:18.7047235+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,221 @@
+meta:
+  title: Tyresö
+  kommunkod: 0138
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+skolor:
+
+- name: Bergfotens skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '58862351'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Njupkärrs skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '33455004'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strandskolan
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '87665835'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisningen
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '86913085'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hanvikens skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '48312263'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Krusboda skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '84704913'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalskolan
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '56130729'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stimmets skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '52531425'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fornuddens skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '71078874'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fårdala skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '41888515'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Noblaskolan Brevik
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '95747197'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sofiebergsskolan
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '39453214'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyresö Montessoriskola
+  PeOrgNr: '5591658975'
+  Skolenhetskod: '22202915'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyresö kommun särvux
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '47623650'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyresö kommun, SFI
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '95659810'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyboda grundsärskola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '15507032'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stimmets grundsärskola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '50462230'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: C3L Tyresö komvux
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '83379569'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Internationella Engelska Skolan Tyresö
+  PeOrgNr: '5564624368'
+  Skolenhetskod: '60904587'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyresö gymnasiesärskola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '66510806'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Tyresö gymnasium '
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '91048178'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tyresö skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '83020784'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyboda skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '31281674'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kumla skola
+  PeOrgNr: '2120000092'
+  Skolenhetskod: '37147254'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:35.7006579+01:00'
+  latitude: null
+  longitude: null

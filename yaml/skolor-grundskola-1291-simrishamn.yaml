@@ -1,0 +1,158 @@
+meta:
+  title: Simrishamn
+  kommunkod: '1291'
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+skolor:
+
+- name: Nils Holgerssonskolan
+  PeOrgNr: '7696014666'
+  Skolenhetskod: '24445412'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '79116999'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Simrislundsskolan
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '53416468'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Borrby skola
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '92471460'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskola
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '13518539'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasiesärskola
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '60977076'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal Vuxenutbildning Simrishamn
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '15326622'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sankt Olofs skola
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '88731583'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sophiaskolan
+  PeOrgNr: '8388005517'
+  Skolenhetskod: '59958745'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Piratenskolan
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '42158538'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Famn
+  PeOrgNr: '5566207113'
+  Skolenhetskod: '68370166'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hammenhögs Friskola
+  PeOrgNr: '7696257885'
+  Skolenhetskod: '36559452'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredsdalsskolan
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '59936176'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Korsavadsskolan 2
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '23701416'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nova gymnasium
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '16748680'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gärsnäs skola
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '93223643'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null
+
+- name: Korsavadsskolan 1
+  PeOrgNr: '2120000969'
+  Skolenhetskod: '66350640'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:30.5494671+01:00'
+  latitude: null
+  longitude: null

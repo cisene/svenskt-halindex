@@ -1,0 +1,122 @@
+meta:
+  title: Burlöv
+  kommunkod: '1231'
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+skolor:
+
+- name: Tågarpskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '34882305'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '48258925'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux Burlöv
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '81998794'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalslundskolan 7-9
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '58712142'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieutbildningen i Burlöv
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '73416853'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '66054000'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vårboskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '95748172'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalslundskolan F-3
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '63471148'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svenshögskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '82378508'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Humlemadskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '12436715'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalslundskolan 4-6
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '65794511'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svanetorpskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '55734921'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södervångskolan
+  PeOrgNr: '2120001025'
+  Skolenhetskod: '64830407'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:18.0278888+01:00'
+  latitude: null
+  longitude: null

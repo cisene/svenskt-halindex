@@ -1,0 +1,338 @@
+meta:
+  title: Borlänge
+  kommunkod: '2081'
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+skolor:
+
+- name: Lanternan
+  PeOrgNr: '5563876753'
+  Skolenhetskod: '59137023'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Amsbergs skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '53466112'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Domnarvets skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '91219337'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forssaklackskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '84601215'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gylle skola 7-9
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '11406792'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gylle skola F-6
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '80265253'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Halvarsgårdars skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '98971545'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jakobsgårdsskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '16877153'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvarnsvedens skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '53010712'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '39328823'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mjälgaskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '47473951'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skräddarbacksskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '73660679'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tjärnaskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '34516710'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Torsångs skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '94897392'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunets skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '83119674'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utvecklingsklasserna
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '67320181'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Välkomstcentrum
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '46508788'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elevhälsan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '40948634'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Soltorgsgymnasiet
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '65192707'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljungbergsgymnasiet sär
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '83671390'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Helixgymnasiet Borlänge
+  PeOrgNr: '5566747290'
+  Skolenhetskod: '42022406'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nygårdsskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '23251345'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Maserskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '56442130'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Immanuelskolan
+  PeOrgNr: '8826020722'
+  Skolenhetskod: '24147931'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Forssaängskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '16213077'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen, Särvux
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '93340245'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Paradisskolan
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '73689078'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Introduktionsprogrammen
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '19100658'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kunskapsskolan Borlänge
+  PeOrgNr: '5565661815'
+  Skolenhetskod: '70510891'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Språk- och kompetenscentrum
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '22186809'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ornäs skola
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '58395955'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagagymnasiet
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '74434644'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Realgymnasiet i Borlänge
+  PeOrgNr: '5565715892'
+  Skolenhetskod: '11858071'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hushags-Erikslundsgymnasiet
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '68769650'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rytmus Borlänge
+  PeOrgNr: '5564648979'
+  Skolenhetskod: '31322470'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen, SFI
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '23071430'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen
+  PeOrgNr: '2120002239'
+  Skolenhetskod: '23082538'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:16:44.5718858+01:00'
+  latitude: null
+  longitude: null

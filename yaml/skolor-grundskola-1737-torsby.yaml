@@ -1,0 +1,86 @@
+meta:
+  title: Torsby
+  kommunkod: '1737'
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+skolor:
+
+- name: Stjerneskolan, vux
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '67479283'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvistbergsskolan
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '83025413'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Frykenskolan
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '21568934'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '80257179'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stjerneskolan
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '34381901'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stölletskolan
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '64856695'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Holmesskolan
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '61795051'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Oleby skola
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '76747040'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östmarks skola
+  PeOrgNr: '2120001777'
+  Skolenhetskod: '79961788'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:08:46.6202781+01:00'
+  latitude: null
+  longitude: null

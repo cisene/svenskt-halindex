@@ -1,0 +1,86 @@
+meta:
+  title: Bjuv
+  kommunkod: '1260'
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+skolor:
+
+- name: 'Varagårdsskolan '
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '10419361'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brogårdaskolan
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '74696775'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brogårdaskolans grundsärskola
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '45109375'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '63007821'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bjuvs lärcentrum
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '66335981'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekeby skola
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '56636046'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Jens Billeskolan
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '63754384'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: Varagårdsskolans grundsärskola
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '61162900'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null
+
+- name: SFI
+  PeOrgNr: '2120001041'
+  Skolenhetskod: '94171627'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:19.3821111+01:00'
+  latitude: null
+  longitude: null

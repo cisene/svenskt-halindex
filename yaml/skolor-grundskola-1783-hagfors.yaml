@@ -1,0 +1,131 @@
+meta:
+  title: Hagfors
+  kommunkod: '1783'
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+skolor:
+
+- name: Älvstrandsgymn. komvux
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '64550468'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstrandsgymn. komvux, SFI
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '49300918'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstrandsgymnasiet, särvux
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '21358207'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstrandsgymnasiet
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '72127035'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstranden bildn.centrum F-3
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '92934002'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkhedens skola F-3
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '76332227'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Råda skola
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '64392595'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '53696651'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstrandsgymnasiet2
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '28310176'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstranden bildn.centrum 7-9
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '18315553'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Älvstranden bildn.centrum 4-6
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '93229087'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sunnemo skola
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '32863672'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergatrollet fritidshem
+  PeOrgNr: '8728003826'
+  Skolenhetskod: '31694010'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kyrkhedens skola 4-9
+  PeOrgNr: '2120001884'
+  Skolenhetskod: '86113785'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:42.4613863+01:00'
+  latitude: null
+  longitude: null

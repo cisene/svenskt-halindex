@@ -1,0 +1,374 @@
+meta:
+  title: Motala
+  kommunkod: 0583
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+skolor:
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '74678703'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skolgårda skola 7-9
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '82224915'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skolgårda skola F-6
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '78731821'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södra skolan 7-9
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '69769596'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Södra skolan F-6
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '33011928'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen grundläggande nivå
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '57445960'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergvallaskolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '30697328'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bråstorpskolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '30701609'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Platengymnasiet 3
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '82883630'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Motalas Högstadium
+  PeOrgNr: '5569320699'
+  Skolenhetskod: '11664326'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Motala
+  PeOrgNr: '5569320699'
+  Skolenhetskod: '40888014'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen särvux
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '31290476'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen SFI
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '41025342'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen gymnasial nivå
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '89121086'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Platengymnasiet 2
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '83161201'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carlsund utbildningscentrum 2
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '22220001'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariebergsskolan F-3
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '62595638'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariebergsskolan 7-9
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '87531665'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vätternskolan 4-6
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '94423675'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tjällmo skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '51733481'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Smedsby skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '36380064'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nykyrka skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '96520696'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dansäterskolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '27941686'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norra skolan F-3
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '48868251'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekenässkolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '68973224'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fornåsa skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '86335791'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norra skolan 4-6
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '48173987'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Klockrike skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '89596219'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Österstad skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '31501751'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Zederslundsskolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '98031467'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vätternskolan F-3
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '56197506'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariebergsskolan 4-6
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '61250710'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlslunds skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '65569758'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fågelsta skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '16363452'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grundsärskolan Marieberg
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '68592606'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Platengymnasiet 1
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '31822012'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hällaskolan
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '87963970'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Platengymnasiet 4
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '94843889'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Godegårds skola
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '84577998'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carlsund utbildningscentrum 1
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '36670439'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carlsund utbildningscentrum 3
+  PeOrgNr: '2120002817'
+  Skolenhetskod: '72351233'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:46:01.8893794+01:00'
+  latitude: null
+  longitude: null

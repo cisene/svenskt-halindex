@@ -1,0 +1,158 @@
+meta:
+  title: Osby
+  kommunkod: '1273'
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+skolor:
+
+- name: Ekbackeskolan Ro2
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '98876996'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekbackeskolan Ro1
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '41555549'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '29375829'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Visslan
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '65486343'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan 7-9
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '61939706'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Killebergskolan F-6
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '54518621'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter vuxenutb, särvux
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '20711746'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter, vuxenutbildning
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '47218105'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcenter/vuxenutbildning, SFI
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '18448015'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hasslarödsskolan 7-9
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '13184976'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hasslarödsskolan F-6
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '21621712'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Klockarskogsskolan F-3 '
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '67170282'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesskolan, gymnaisesär
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '12073110'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Yrkesskolan, introduktionsprogrammet
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '19878579'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Örkenedskolan F-9
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '21002578'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Osby Grundsärskolan 1-9
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '82118733'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan F-6
+  PeOrgNr: '2120000902'
+  Skolenhetskod: '70332017'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:22.7408829+01:00'
+  latitude: null
+  longitude: null

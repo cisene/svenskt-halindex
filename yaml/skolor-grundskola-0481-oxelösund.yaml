@@ -1,0 +1,50 @@
+meta:
+  title: Oxelösund
+  kommunkod: 0481
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+skolor:
+
+- name: Oxelöskolan
+  PeOrgNr: '2120000324'
+  Skolenhetskod: '12053461'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ramdalsskolan
+  PeOrgNr: '2120000324'
+  Skolenhetskod: '98215830'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Oxelösund komvux
+  PeOrgNr: '2120000324'
+  Skolenhetskod: '20971516'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+  latitude: null
+  longitude: null
+
+- name: Campus Oxelösund SFI
+  PeOrgNr: '2120000324'
+  Skolenhetskod: '85047810'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+  latitude: null
+  longitude: null
+
+- name: Peterslundsskolan
+  PeOrgNr: '2120000324'
+  Skolenhetskod: '46563141'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:43:15.3989325+01:00'
+  latitude: null
+  longitude: null

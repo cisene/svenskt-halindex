@@ -1,0 +1,95 @@
+meta:
+  title: Malung-Sälen
+  kommunkod: '2023'
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+skolor:
+
+- name: Blomsterbäcksskolan
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '13118298'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Kommunal verksamhet
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '23589710'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärcentrum Malung
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '15155521'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malung-Sälens gymnasieskola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '68381790'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centralskolan
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '83084730'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rörbäcksnäs skola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '60207912'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sälens skola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '13866289'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ungärde skola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '17208837'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malungsfors skola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '23193760'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillmons skola
+  PeOrgNr: '2120002148'
+  Skolenhetskod: '62491694'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:15:11.5337399+01:00'
+  latitude: null
+  longitude: null

@@ -1,0 +1,104 @@
+meta:
+  title: Hallstahammar
+  kommunkod: '1961'
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+skolor:
+
+- name: Näslundskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '41183880'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tunboskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '32758035'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildning Hallstahammar
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '71558379'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ridsportsgymnasiet
+  PeOrgNr: '5566940408'
+  Skolenhetskod: '50696507'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindboskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '88403889'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Strömsholms skola
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '17031958'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Parkskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '91030682'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nibbleskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '98570516'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gymnasieutbildningen Hallstahammar
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '25253663'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsundervisningen
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '74594499'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallbyskolan
+  PeOrgNr: '2120002064'
+  Skolenhetskod: '63910317'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:13:48.7280964+01:00'
+  latitude: null
+  longitude: null

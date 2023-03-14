@@ -1,0 +1,269 @@
+meta:
+  title: Vallentuna
+  kommunkod: 77
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+skolor:
+
+- name: Gustav Vasaskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Kårsta skola
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Karbyskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Aktiviaskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Ikasus friskola
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Karlslundsskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Olympiaskolan (grundsärskola)
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Rosendalsskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Vallentuna Friskola
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Vallentuna Internationella Montessoriskola
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Bällstabergsskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Lovisedalsskolan
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Vittra Friskola
+  årskurs: null
+  driftsform: null
+  latitude: null
+  longitude: null
+
+- name: Aktiviaskolan
+  PeOrgNr: '5567812069'
+  Skolenhetskod: '48184058'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bällstabergsskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '52293921'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vittra Vallentuna
+  PeOrgNr: '5564586716'
+  Skolenhetskod: '46206050'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gustav Vasaskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '33565539'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallentuna Friskola
+  PeOrgNr: '5565736187'
+  Skolenhetskod: '72378947'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: IKASUS
+  PeOrgNr: '5565092482'
+  Skolenhetskod: '20230739'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: IKASUS gy
+  PeOrgNr: '5565092482'
+  Skolenhetskod: '69552982'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallentuna gymnasium
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '85788659'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aktiviaskolan Enhet Eken
+  PeOrgNr: '5567812069'
+  Skolenhetskod: '28145722'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rosendalsskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '63742407'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karbyskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '57370453'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kårsta skola
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '84103650'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lovisedalsskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '29278599'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagaskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '84520303'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlslundsskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '11193969'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallentuna internationella montessoriskola
+  PeOrgNr: '5591658975'
+  Skolenhetskod: '71375812'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Clavis, resursklass
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '42652939'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Atlas, resursklass
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '40724774'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Modersmålsunderv
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '96840270'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olympiaskolan
+  PeOrgNr: '2120000027'
+  Skolenhetskod: '10299294'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:37:02.7775076+01:00'
+  latitude: null
+  longitude: null

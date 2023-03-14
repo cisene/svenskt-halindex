@@ -1,0 +1,113 @@
+meta:
+  title: Sävsjö
+  kommunkod: 0684
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+skolor:
+
+- name: Sävsjö kristna skola
+  PeOrgNr: '8275007857'
+  Skolenhetskod: '28504550'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aleholm
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '37912396'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stockaryds skola
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '77440739'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vallsjöskolan
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '53857703'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aleholm, komvux
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '55823847'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aleholm, SFI
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '91429813'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Aleholm, särvux
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '33627893'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hofgårdsskolan
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '59983229'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Enskild verksamhet
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '68858971'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rörviks skola
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '74170440'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vrigstad skola
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '60194444'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hägneskolan
+  PeOrgNr: '2120000563'
+  Skolenhetskod: '13654995'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:48:06.3199455+01:00'
+  latitude: null
+  longitude: null

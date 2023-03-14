@@ -1,0 +1,77 @@
+meta:
+  title: Tibro
+  kommunkod: '1472'
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+skolor:
+
+- name: Ransbergs skola
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '16249041'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyboskolan - grundskola
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '97306690'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baggeboskolan
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '48800150'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Baggeboskolan - grundsärskola
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '66403965'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Häggetorpsskolan
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '92595260'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyboskolan - gymnasieskola
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '74322969'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyboskolan, grundsärskola och elevhälsa
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '24564454'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null
+
+- name: Gärdsmygen
+  PeOrgNr: '2120001660'
+  Skolenhetskod: '48672437'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:04:46.5176036+01:00'
+  latitude: null
+  longitude: null

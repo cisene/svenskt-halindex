@@ -1,0 +1,140 @@
+meta:
+  title: Timrå
+  kommunkod: '2262'
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+skolor:
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '40521535'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söråkers skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '58834998'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ala skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '59092675'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fagerviks skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '16932433'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariedalsskolan
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '28838540'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Laggarbergs skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '50430513'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vuxenutbildningen i Timrå
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '71260640'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Timrå gymnasium 1
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '27079521'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Timrå gymnasium 2
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '47864446'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arenaskolan grundskola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '81784662'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Böle skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '25682466'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Arenaskolan grundsärskola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '54143790'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergeforsen grundskola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '99588685'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergeforsen grundsärskola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '87381500'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ljustorps skola
+  PeOrgNr: '2120002395'
+  Skolenhetskod: '83487510'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:19:32.5731734+01:00'
+  latitude: null
+  longitude: null

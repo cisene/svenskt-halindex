@@ -1,0 +1,68 @@
+meta:
+  title: Gnesta
+  kommunkod: '0461'
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+skolor:
+
+- name: Gnesta Waldorfskola
+  PeOrgNr: '8190013030'
+  Skolenhetskod: '35159342'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '66824376'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Frejaskolan F-9
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '89195825'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvarnbackaskolan F-6
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '19546209'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utbildningscentrum
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '24180201'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dansutskolan F-6
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '76365900'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null
+
+- name: Welandersborgs skola F-6
+  PeOrgNr: '2120002965'
+  Skolenhetskod: '17508329'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:42:54.6214728+01:00'
+  latitude: null
+  longitude: null

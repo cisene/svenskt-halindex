@@ -1,0 +1,203 @@
+meta:
+  title: Köping
+  kommunkod: '1983'
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+skolor:
+
+- name: Odensvi skola
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '99475738'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lärvux
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '50769996'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '13644940'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Elundskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '29887798'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Scheeleskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '24379201'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Karlbergsskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '31319179'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsbrynskolan sär
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '82913849'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nygårdsskolan gymnasiesär
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '19119915'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nyckelbergsskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '36175549'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malmaskolan F-3
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '49794709'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Malmaskolan 4-9
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '49665496'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Munktorpsskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '36924587'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi2
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '34412858'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi4
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '34852224'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi1
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '35632014'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nibbleskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '57276913'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: S:t Olovsskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '82625785'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Himmeta skola
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '15212834'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Skogsbrynskolan
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '79622038'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi3
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '34931041'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Scheeleskolan sär
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '36013431'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ullvi gymnasiesärskola
+  PeOrgNr: '2120002114'
+  Skolenhetskod: '91297363'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:40.5423515+01:00'
+  latitude: null
+  longitude: null

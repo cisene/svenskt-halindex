@@ -1,0 +1,113 @@
+meta:
+  title: Kristinehamn
+  kommunkod: '1781'
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+skolor:
+
+- name: Södermalmsskolan F-9
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '27777261'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '28910994'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Björneborgs skola F-6
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '77815401'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Grunnebacka skola F-6
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '87549929'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, SFI
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '90112622'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux, särvux
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '17110832'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Föräldrakooperativet Gläntan Fritidshem
+  PeOrgNr: '8736003594'
+  Skolenhetskod: '98738391'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Djurgårdsskolan F-9
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '55509192'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stenstalidskolan F-9
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '14885908'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Strandskolan '
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '43348908'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Ölmeskolan '
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '30592273'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brogymnasiet
+  PeOrgNr: '2120001868'
+  Skolenhetskod: '86972402'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:10:19.8480705+01:00'
+  latitude: null
+  longitude: null

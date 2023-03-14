@@ -1,0 +1,131 @@
+meta:
+  title: Fagersta
+  kommunkod: '1982'
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+skolor:
+
+- name: Brinellskolan 1
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '32420077'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Alfaskolan
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '22362814'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olsboskolan gymnasiesär
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '73755431'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Per Olsskolan
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '98041227'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Risbroskolan
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '88657987'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Mariaskolan
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '81300090'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Olsboskolan grundsär
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '74084060'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindgårdsskolan F-6
+  PeOrgNr: '2520040524'
+  Skolenhetskod: '95162796'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lindgårdsskolan 7-9
+  PeOrgNr: '2520040524'
+  Skolenhetskod: '95382478'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brinellskolan 2
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '48434184'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brinellskolan 3
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '25167262'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux Norra Västmanland
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '86612198'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Komvux som särskild undervisning (Lärvux)
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '62844157'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null
+
+- name: Välfärd och service, Komvux Norra Västmanland
+  PeOrgNr: '2120002106'
+  Skolenhetskod: '11083778'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:14:30.2135597+01:00'
+  latitude: null
+  longitude: null

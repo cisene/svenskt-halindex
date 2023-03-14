@@ -1,0 +1,347 @@
+meta:
+  title: Haninge
+  kommunkod: '0136'
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+skolor:
+
+- name: Deltaskolan
+  PeOrgNr: '5568658545'
+  Skolenhetskod: '73926940'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Rodrets friskola
+  PeOrgNr: '7696014534'
+  Skolenhetskod: '19983531'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra Ekoskolan
+  PeOrgNr: '8124010839'
+  Skolenhetskod: '54752734'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Berga naturbruksgymnasium
+  PeOrgNr: '2321000016'
+  Skolenhetskod: '38448056'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västerhaninge Montessoriskola
+  PeOrgNr: '7696018816'
+  Skolenhetskod: '75527289'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svartbäcksskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '94791997'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Söderbymalmsskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '10035236'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vendelsömalmsskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '72266104'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Riksäpplet
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '79606767'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Centrum Vux
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '43084085'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Båtsmansskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '45914893'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: I Ur och Skur Mullebo
+  PeOrgNr: '7696008585'
+  Skolenhetskod: '23886554'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Höglundaskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '44031601'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Dalarö skola
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '47640376'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tungelsta skola
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '38975788'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ribbybergsskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '80746043'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Runstensskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '76400478'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Vikingaskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '90537318'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessoriskolan Fredsduvan
+  PeOrgNr: '5564625308'
+  Skolenhetskod: '19089469'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Muskö skola
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '47034991'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ornö skola
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '47244612'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Utö skola
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '47140640'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Åbyskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '30270791'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ribbyskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '59497255'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: HagaLyckebyskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '81680693'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kvarnbäcksskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '76440567'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Nakterhusskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '43140379'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Eviaskolan
+  PeOrgNr: '5567379093'
+  Skolenhetskod: '14845171'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Söderby
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '55233055'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Rudan
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '17957898'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Innovitaskolan Vendelsö
+  PeOrgNr: '5560354309'
+  Skolenhetskod: '65927702'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Haninge Montessoriskola
+  PeOrgNr: '5565927026'
+  Skolenhetskod: '86440798'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Måsöskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '33624606'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: JENSEN grundskola Tungelsta
+  PeOrgNr: '5566358759'
+  Skolenhetskod: '30255409'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flerspråkigt center
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '48546502'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brandbergsskolan
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '73184968'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Övrig centralt anställda pedagoger
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '37134096'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fredrika Bremergymnasiet
+  PeOrgNr: '2120000084'
+  Skolenhetskod: '16313848'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:25.3163362+01:00'
+  latitude: null
+  longitude: null

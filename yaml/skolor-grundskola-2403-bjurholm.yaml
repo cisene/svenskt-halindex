@@ -1,0 +1,32 @@
+meta:
+  title: Bjurholm
+  kommunkod: '2403'
+  updated: '2023-03-14T22:22:10.8318630+01:00'
+skolor:
+
+- name: Komvux
+  PeOrgNr: '2120002833'
+  Skolenhetskod: '25698707'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:10.8318630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Castorskolan F-3
+  PeOrgNr: '2120002833'
+  Skolenhetskod: '95790040'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:10.8318630+01:00'
+  latitude: null
+  longitude: null
+
+- name: Castorskolan 4-9
+  PeOrgNr: '2120002833'
+  Skolenhetskod: '81730469'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:22:10.8318630+01:00'
+  latitude: null
+  longitude: null

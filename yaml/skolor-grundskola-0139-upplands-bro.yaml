@@ -1,0 +1,158 @@
+meta:
+  title: Upplands-Bro
+  kommunkod: 0139
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+skolor:
+
+- name: Urfjälls Montessoriskola
+  PeOrgNr: '8132002497'
+  Skolenhetskod: '31608087'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hagnässkolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '16969143'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Härneviskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '24606968'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Källskolan 6-9
+  PeOrgNr: '8132004659'
+  Skolenhetskod: '85796724'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Finnstaskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '61061763'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Upplands-Bro SFI-enheten
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '68863565'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Upplands-Bro vuxenutbildning
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '22089912'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bergaskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '56299553'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Lillsjöskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '85759071'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: JENSEN grundskola Bro-Mälarstrand
+  PeOrgNr: '5566358759'
+  Skolenhetskod: '89851619'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Broskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '16983719'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Upplands-Brogymnasiet
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '53923398'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekhammarskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '92284588'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Råbyskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '21781901'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Tjustaskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '76550010'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Brunnaskolan
+  PeOrgNr: '2120000100'
+  Skolenhetskod: '56315778'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null
+
+- name: Källskolan F-5
+  PeOrgNr: '8132004659'
+  Skolenhetskod: '63111806'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T21:38:46.0690195+01:00'
+  latitude: null
+  longitude: null

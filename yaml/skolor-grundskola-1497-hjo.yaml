@@ -1,0 +1,131 @@
+meta:
+  title: Hjo
+  kommunkod: '1497'
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+skolor:
+
+- name: SFI
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '25878197'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet Kommunal verksamhet
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '50661444'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '21676414'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Individuella programmet
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '53494028'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Särvux
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '97713237'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Estrid Ericsonskolan
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '16996664'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fritidshemmet Hackspetten
+  PeOrgNr: '7164494952'
+  Skolenhetskod: '61166593'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fågelås skola
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '53080108'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Guldkroksskolan 7-9
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '81342093'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hammarnskolan
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '85504910'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Korsberga skola
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '55078375'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Guldkroksskolan Grundsär
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '45615781'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Guldkroksskolan F-6
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '44468615'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null
+
+- name: Estrid Ericsonskolan grundsärskola
+  PeOrgNr: '2120001728'
+  Skolenhetskod: '88691238'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:07:54.8215984+01:00'
+  latitude: null
+  longitude: null

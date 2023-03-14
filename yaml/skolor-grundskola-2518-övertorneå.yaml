@@ -1,0 +1,59 @@
+meta:
+  title: Övertorneå
+  kommunkod: '2518'
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+skolor:
+
+- name: Svarträvens skola F-3
+  PeOrgNr: '2120002700'
+  Skolenhetskod: '53794508'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hietaniemi Friskoleförening
+  PeOrgNr: '8976010887'
+  Skolenhetskod: '46252858'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null
+
+- name: Kommunal vuxenutbildning
+  PeOrgNr: '2120002700'
+  Skolenhetskod: '69777479'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svanstein skola Diamanten
+  PeOrgNr: '2120002700'
+  Skolenhetskod: '90707437'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null
+
+- name: Svarträvens skola 4-9
+  PeOrgNr: '2120002700'
+  Skolenhetskod: '18991431'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null
+
+- name: 'Gränsälvsgymnasiet '
+  PeOrgNr: '2120002700'
+  Skolenhetskod: '52690153'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:25:27.3412355+01:00'
+  latitude: null
+  longitude: null

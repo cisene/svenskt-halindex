@@ -1,0 +1,41 @@
+meta:
+  title: Arjeplog
+  kommunkod: '2506'
+  updated: '2023-03-14T22:24:45.9566721+01:00'
+skolor:
+
+- name: Hornavanskolan
+  PeOrgNr: '2120002668'
+  Skolenhetskod: '55795961'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:45.9566721+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hornavanskolan/komvux
+  PeOrgNr: '2120002668'
+  Skolenhetskod: '69346182'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:45.9566721+01:00'
+  latitude: null
+  longitude: null
+
+- name: Hornavanskolan/SFI
+  PeOrgNr: '2120002668'
+  Skolenhetskod: '41554057'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:45.9566721+01:00'
+  latitude: null
+  longitude: null
+
+- name: Silverskolan
+  PeOrgNr: '2120002668'
+  Skolenhetskod: '14254350'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T22:24:45.9566721+01:00'
+  latitude: null
+  longitude: null

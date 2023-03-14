@@ -1,0 +1,212 @@
+meta:
+  title: Eslöv
+  kommunkod: '1285'
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+skolor:
+
+- name: Norrevångsskolan F-6
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '28661237'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Norrevångsskolan 7-9
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '37995642'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Montessorifriskolan i Eslöv
+  PeOrgNr: '8465023961'
+  Skolenhetskod: '68546833'
+  årskurs: null
+  driftsform: Friskola
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Central Insamlingsenhet
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '93810530'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carl Engström vuxenutbildning
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '13678293'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Stehagskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '74200315'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Marieskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '10583321'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra skolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '86681887'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Östra Strö skola
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '85547980'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Källebergsskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '26645758'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carl Engström vuxenutbildningen särvux
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '40877918'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Sallerupskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '13488043'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carl Engström vuxenutbildning SFI
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '31397046'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ekenässkolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '83526311'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Fridasroskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '85535876'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Västra skolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '58463429'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Bredablickskolan sär
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '94636590'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ölyckeskolan 7-9
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '97938241'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Ölyckeskolan f-6
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '97617940'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carl Engströmgymnasiesärskola
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '87993360'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Carl Engströmgymnasiet
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '15077883'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Flyingeskolan
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '30190678'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
+
+- name: Harlösa skola
+  PeOrgNr: '2120001173'
+  Skolenhetskod: '89857863'
+  årskurs: null
+  driftsform: Kommunal
+  updated: '2023-03-14T10:10:28.8306120+01:00'
+  latitude: null
+  longitude: null
