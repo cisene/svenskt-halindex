@@ -1,0 +1,402 @@
+locations:
+
+- location: Hallstavik
+  latitude: 60.050725
+  longitude: 18.597493
+  altitude: 0
+
+- location: Edsbro
+  latitude: 59.892317
+  longitude: 18.488445
+  altitude: 0
+
+- location: Nykvarn
+  latitude: 59.180062
+  longitude: 17.427921
+  altitude: 0
+
+- location: Skutskär
+  latitude: 60.629933
+  longitude: 17.415862
+  altitude: 0
+
+- location: Tierp
+  latitude: 60.346445
+  longitude: 17.517014
+  altitude: 0
+
+- location: Tärnsjö
+  latitude: 60.157739
+  longitude: 16.930275
+  altitude: 0
+
+- location: Skärplinge
+  latitude: 60.476532
+  longitude: 17.757854
+  altitude: 0
+
+- location: Simtuna
+  latitude: 59.759032
+  longitude: 16.906543
+  altitude: 0
+
+- location: Hälleforsnäs
+  latitude: 59.151335
+  longitude: 16.496873
+  altitude: 0
+
+- location: Tystberga
+  latitude: 58.843196
+  longitude: 17.226348
+  altitude: 0
+
+- location: Ljungsbro
+  latitude: 58.507686
+  longitude: 15.505829
+  altitude: 0
+
+- location: Gusum
+  latitude: 58.26498
+  longitude: 16.495628
+  altitude: 0
+
+- location: Skärblacka
+  latitude: 58.581431
+  longitude: 15.914297
+  altitude: 0
+
+- location: Pauliström
+  latitude: 57.46642
+  longitude: 15.52424
+  altitude: 0
+
+- location: Aneby
+  latitude: 57.839589
+  longitude: 14.817724
+  altitude: 0
+
+- location: Sävsjö
+  latitude: 57.400168
+  longitude: 14.666147
+  altitude: 0
+
+- location: Lessebo
+  latitude: 56.752205
+  longitude: 15.270138
+  altitude: 0
+
+- location: Strömnäsbruk
+  latitude: 56.549998
+  longitude: 13.731065
+  altitude: 0
+
+- location: Liatorp
+  latitude: 56.672216
+  longitude: 14.272957
+  altitude: 0
+
+- location: Gullringen
+  latitude: 57.802449
+  longitude: 15.720491
+  altitude: 0
+
+- location: Fårbo
+  latitude: 57.375975
+  longitude: 16.491508
+  altitude: 0
+
+- location: Mönsterås
+  latitude: 57.042411
+  longitude: 16.443014
+  altitude: 0
+
+- location: Trekanten
+  latitude: 56.699134
+  longitude: 16.118016
+  altitude: 0
+
+- location: Slite
+  latitude: 57.705615
+  longitude: 18.806105
+  altitude: 0
+
+- location: Hemse
+  latitude: 57.237937
+  longitude: 18.375878
+  altitude: 0
+
+- location: Svängsta
+  latitude: 56.26247
+  longitude: 14.769015
+  altitude: 0
+
+- location: Olofström
+  latitude: 56.278579
+  longitude: 14.530878
+  altitude: 0
+
+- location: Everöd
+  latitude: 55.902891
+  longitude: 14.082799
+  altitude: 0
+
+- location: Tollarp
+  latitude: 55.931318
+  longitude: 13.944054
+  altitude: 0
+
+- location: Skåne-Tranås
+  latitude: 55.616195
+  longitude: 13.99199
+  altitude: 0
+
+- location: Sjöbo
+  latitude: 55.635651
+  longitude: 13.703384
+  altitude: 0
+
+- location: Vollsjö
+  latitude: 55.698752
+  longitude: 13.793507
+  altitude: 0
+
+- location: Klippan
+  latitude: 56.135603
+  longitude: 13.128834
+  altitude: 0
+
+- location: Hyltebruk
+  latitude: 57.002466
+  longitude: 13.24213
+  altitude: 0
+
+- location: Laholm
+  latitude: 56.50666
+  longitude: 13.046007
+  altitude: 0
+
+- location: Ullared
+  latitude: 57.134004
+  longitude: 12.733111
+  altitude: 0
+
+- location: Oskarström
+  latitude: 56.802265
+  longitude: 12.976098
+  altitude: 0
+
+- location: Stenungsund
+  latitude: 58.069434
+  longitude: 11.829185
+  altitude: 0
+
+- location: Surte
+  latitude: 57.817515
+  longitude: 12.016811
+  altitude: 0
+
+- location: Skee
+  latitude: 58.908569
+  longitude: 11.305146
+  altitude: 0
+
+- location: Svenljunga
+  latitude: 57.496503
+  longitude: 13.114758
+  altitude: 0
+
+- location: Vårgårda
+  latitude: 58.033054
+  longitude: 12.8092
+  altitude: 0
+
+- location: Bengtsfors
+  latitude: 59.029603
+  longitude: 12.226839
+  altitude: 0
+
+- location: Töreboda
+  latitude: 58.705973
+  longitude: 14.126186
+  altitude: 0
+
+- location: Tibro
+  latitude: 58.425134
+  longitude: 14.16172
+  altitude: 0
+
+- location: Lundsbrunn
+  latitude: 58.46989
+  longitude: 13.459153
+  altitude: 0
+
+- location: Grums
+  latitude: 59.354634
+  longitude: 13.112354
+  altitude: 0
+
+- location: Hagfors
+  latitude: 60.035874
+  longitude: 13.69463
+  altitude: 0
+
+- location: Segmon
+  latitude: 59.273381
+  longitude: 13.056436
+  altitude: 0
+
+- location: Deje
+  latitude: 59.604396
+  longitude: 13.46838
+  altitude: 0
+
+- location: Hällefors
+  latitude: 59.784397
+  longitude: 14.522638
+  altitude: 0
+
+- location: Röfors
+  latitude: 58.936171
+  longitude: 14.637179
+  altitude: 0
+
+- location: Laxå
+  latitude: 58.983328
+  longitude: 14.623146
+  altitude: 0
+
+- location: Pålsboda
+  latitude: 59.066022
+  longitude: 15.337472
+  altitude: 0
+
+- location: Fagersta
+  latitude: 59.989801
+  longitude: 15.816708
+  altitude: 0
+
+- location: Tillberga
+  latitude: 59.684793
+  longitude: 16.619654
+  altitude: 0
+
+- location: Heby
+  latitude: 59.938074
+  longitude: 16.865387
+  altitude: 0
+
+- location: Riddarhyttan
+  latitude: 59.808599
+  longitude: 15.550632
+  altitude: 0
+
+- location: Fredriksberg
+  latitude: 60.137979
+  longitude: 14.379988
+  altitude: 0
+
+- location: Fors
+  latitude: 60.211681
+  longitude: 16.316671
+  altitude: 0
+
+- location: Långshyttan
+  latitude: 60.452605
+  longitude: 16.032915
+  altitude: 0
+
+- location: Grycksbo
+  latitude: 60.688435
+  longitude: 15.484285
+  altitude: 0
+
+- location: Evertsberg
+  latitude: 61.142075
+  longitude: 13.941307
+  altitude: 0
+
+- location: Ljusne
+  latitude: 61.211428
+  longitude: 17.129745
+  altitude: 0
+
+- location: Hofors
+  latitude: 60.54673
+  longitude: 16.284313
+  altitude: 0
+
+- location: Iggesund
+  latitude: 61.642884
+  longitude: 17.075715
+  altitude: 0
+
+- location: Holmsveden
+  latitude: 61.116236
+  longitude: 16.727071
+  altitude: 0
+
+- location: Ånge
+  latitude: 62.523369
+  longitude: 15.659037
+  altitude: 0
+
+- location: Torpshammar
+  latitude: 62.477277
+  longitude: 16.345468
+  altitude: 0
+
+- location: Alby
+  latitude: 62.502313
+  longitude: 15.477977
+  altitude: 0
+
+- location: Ljungaverk
+  latitude: 62.489669
+  longitude: 16.042013
+  altitude: 0
+
+- location: Åsarna
+  latitude: 62.639707
+  longitude: 14.365182
+  altitude: 0
+
+- location: Undersåker
+  latitude: 63.323783
+  longitude: 13.241529
+  altitude: 0
+
+- location: Hoting
+  latitude: 64.114031
+  longitude: 16.20316
+  altitude: 0
+
+- location: Hällnäs
+  latitude: 64.308911
+  longitude: 19.642396
+  altitude: 0
+
+- location: Boliden
+  latitude: 64.863087
+  longitude: 20.386591
+  altitude: 0
+
+- location: Fredrika
+  latitude: 64.066082
+  longitude: 18.406305
+  altitude: 0
+
+- location: Vidsel
+  latitude: 65.830009
+  longitude: 20.543532
+  altitude: 0
+
+- location: Murjek
+  latitude: 66.488072
+  longitude: 20.861664
+  altitude: 0
+
+- location: Glommersträsk
+  latitude: 65.260963
+  longitude: 19.632525
+  altitude: 0
+
