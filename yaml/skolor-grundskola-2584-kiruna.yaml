@@ -10,8 +10,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.850437
+  longitude: 20.269062
 
 - name: Kiruna Lärcentra
   PeOrgNr: '2220000760'
@@ -19,8 +19,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.853687
+  longitude: 20.232563
 
 - name: Kiruna Lärcentra, SFI
   PeOrgNr: '2220000760'
@@ -28,8 +28,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.853687
+  longitude: 20.232563
 
 - name: Kiruna Lärcentra., särvux
   PeOrgNr: '2220000760'
@@ -37,8 +37,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.853687
+  longitude: 20.232563
 
 - name: Nya Raketskolan 7-9
   PeOrgNr: '2120002783'
@@ -46,8 +46,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.838062
+  longitude: 20.283313
 
 - name: Lapplands Gymnasium Kiruna enh. 1
   PeOrgNr: '2220000760'
@@ -55,8 +55,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.849063
+  longitude: 20.231313
 
 - name: Lapplands Gymnasium Kiruna enh. 3
   PeOrgNr: '2220000760'
@@ -64,8 +64,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.849063
+  longitude: 20.231313
 
 - name: Bergaskolan
   PeOrgNr: '2120002783'
@@ -73,8 +73,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.857563
+  longitude: 20.245063
 
 - name: Karesuando skola
   PeOrgNr: '2120002783'
@@ -82,8 +82,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 68.439813
+  longitude: 22.475187
 
 - name: Svappavaara skola
   PeOrgNr: '2120002783'
@@ -91,8 +91,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.649438
+  longitude: 21.055188
 
 - name: Tuolluvaara skola
   PeOrgNr: '2120002783'
@@ -100,8 +100,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.848187
+  longitude: 20.334688
 
 - name: Vittangi skola
   PeOrgNr: '2120002783'
@@ -109,8 +109,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.676937
+  longitude: 21.638188
 
 - name: Övre Soppero skola
   PeOrgNr: '2120002783'
@@ -118,8 +118,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 68.090812
+  longitude: 21.691437
 
 - name: Luossavaaraskolan
   PeOrgNr: '2120002783'
@@ -127,8 +127,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.865062
+  longitude: 20.216188
 
 - name: Lapplands Gymnasium Kiruna enh. 2
   PeOrgNr: '2220000760'
@@ -136,8 +136,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.849063
+  longitude: 20.231313
 
 - name: Rymdgymnasiet
   PeOrgNr: '5565528022'
@@ -145,8 +145,8 @@ skolor:
   årskurs: null
   driftsform: Friskola
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.861187
+  longitude: 20.234563
 
 - name: Högalidskolan 4-6
   PeOrgNr: '2120002783'
@@ -154,8 +154,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.859813
+  longitude: 20.235062
 
 - name: Högalidskolan 7-9
   PeOrgNr: '2120002783'
@@ -163,8 +163,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.859813
+  longitude: 20.235062
 
 - name: Triangelskolan
   PeOrgNr: '2120002783'
@@ -172,8 +172,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.850188
+  longitude: 20.242938
 
 - name: Sameskolan Karesuando
   PeOrgNr: '2021004631'
@@ -181,8 +181,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 68.440438
+  longitude: 22.476312
 
 - name: Thoren Framtid Vargen
   PeOrgNr: '5567497051'
@@ -190,8 +190,8 @@ skolor:
   årskurs: null
   driftsform: Friskola
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.855937
+  longitude: 20.267812
 
 - name: Thoren Framtid Vita vidderna
   PeOrgNr: '5567497051'
@@ -199,8 +199,8 @@ skolor:
   årskurs: null
   driftsform: Friskola
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.855937
+  longitude: 20.267812
 
 - name: Abisko skola
   PeOrgNr: '2120002783'
@@ -208,8 +208,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 68.348438
+  longitude: 18.833813
 
 - name: Central insamlingsenhet
   PeOrgNr: '2120002783'
@@ -217,8 +217,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.848938
+  longitude: 20.302937
 
 - name: Jukkasjärvi skola
   PeOrgNr: '2120002783'
@@ -226,8 +226,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.849063
+  longitude: 20.609563
 
 - name: Nya Raketskolan f-3
   PeOrgNr: '2120002783'
@@ -235,8 +235,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.838062
+  longitude: 20.283313
 
 - name: Nya Raketskolan 4-6
   PeOrgNr: '2120002783'
@@ -244,8 +244,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.838062
+  longitude: 20.283313
 
 - name: Specialped. Verksamh.
   PeOrgNr: '2120002783'
@@ -253,5 +253,5 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:50.0771521+01:00'
-  latitude: null
-  longitude: null
+  latitude: 67.848938
+  longitude: 20.302937
