@@ -10,8 +10,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.834563
+  longitude: 24.127812
 
 - name: Tornedalsskolan vuxenutb
   PeOrgNr: '2120002775'
@@ -19,8 +19,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.834563
+  longitude: 24.127812
 
 - name: Tornedalsskolan, SFI
   PeOrgNr: '2120002775'
@@ -28,8 +28,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.834563
+  longitude: 24.127812
 
 - name: Marielund- Språkskolan
   PeOrgNr: '2120002775'
@@ -37,8 +37,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.851438
+  longitude: 24.114688
 
 - name: Särskolan Eden grundsär
   PeOrgNr: '2120002775'
@@ -46,8 +46,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.851438
+  longitude: 24.114688
 
 - name: Särskolan Eden, särvux
   PeOrgNr: '2120002775'
@@ -55,8 +55,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.851438
+  longitude: 24.114688
 
 - name: Montessoriskolan Droppen
   PeOrgNr: '8976004997'
@@ -64,17 +64,17 @@ skolor:
   årskurs: null
   driftsform: Friskola
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.838562
+  longitude: 24.126062
 
 - name: Aspstrandens skola
   PeOrgNr: '2120002775'
   Skolenhetskod: '91185118'
-  årskurs: null
+  årskurs: F-6
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.835313
+  longitude: 24.131188
 
 - name: Gränsskolan
   PeOrgNr: '2120002775'
@@ -82,8 +82,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.833187
+  longitude: 24.129688
 
 - name: Karungi skola
   PeOrgNr: '2120002775'
@@ -91,8 +91,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 66.045187
+  longitude: 23.949937
 
 - name: Nikkala skola
   PeOrgNr: '2120002775'
@@ -100,8 +100,8 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.805063
+  longitude: 23.915062
 
 - name: Seskarö skola
   PeOrgNr: '2120002775'
@@ -109,5 +109,5 @@ skolor:
   årskurs: null
   driftsform: Kommunal
   updated: '2023-03-14T22:26:39.7482163+01:00'
-  latitude: null
-  longitude: null
+  latitude: 65.739437
+  longitude: 23.736312
