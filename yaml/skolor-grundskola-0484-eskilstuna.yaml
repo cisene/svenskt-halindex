@@ -313,7 +313,7 @@ skolor:
 - name: Björktorpsskolan F-3
   PeOrgNr: '2120000357'
   Skolenhetskod: '36462704'
-  årskurs: null
+  årskurs: F-3
   driftsform: Kommunal
   updated: '2023-03-14T21:43:46.5012522+01:00'
   latitude: 59.366187
