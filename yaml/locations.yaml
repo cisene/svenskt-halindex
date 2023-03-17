@@ -400,3 +400,10 @@ locations:
   longitude: 19.632525
   altitude: 0
 
+- location: Ärla
+  latitude: 59.27823491133814
+  longitude: 16.68578219534528
+
+- location: Hällberga
+  latitude: 59.31783417957087
+  longitude: 16.592657187015515
