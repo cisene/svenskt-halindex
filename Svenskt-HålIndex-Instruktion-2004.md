@@ -92,13 +92,13 @@ En typisk håla är Fors i Dalarna. Orten, som ligger i inlandet i en ganska sum
 
 
 En något större ort är Vännäs i Västerbotten som får:
-* 4p för punkterna 1, 3, 8, 13. + 2p för sitt ensidiga näringsliv och hålstämningen. Integrationspoäng 8 p - en riktig håla!!
+-4p för punkterna 1, 3, 8, 13. + 2p för sitt ensidiga näringsliv och hålstämningen. Integrationspoäng 8 p - en riktig håla!!
 
 Ockelbo (som är födelseplatsen för SHI) i Gästrikland får:
-* 7p för punkterna 1, 3, 6, 7, 8, 10, 13. + 1p för hålstämningen. Integrationspoäng 4 p - en måttlig håla!
+-7p för punkterna 1, 3, 6, 7, 8, 10, 13. + 1p för hålstämningen. Integrationspoäng 4 p - en måttlig håla!
 
 Större orter t.ex. Oskarshamn får:
-* 12p för punkterna 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, samt + 1p (Småland). Integreras poängen fås under 0, alltså är allt snack om att Oskarshamn är en håla helt felaktigt och måste på det bestämdaste avvisas.
+-12p för punkterna 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, samt + 1p (Småland). Integreras poängen fås under 0, alltså är allt snack om att Oskarshamn är en håla helt felaktigt och måste på det bestämdaste avvisas.
 
 
 
