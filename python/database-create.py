@@ -4,7 +4,7 @@
 import os
 import sys
 import datetime
-
+import re
 import sqlite3
 from sqlite3 import Error
 
@@ -30,8 +30,16 @@ COORDINATES_SCHEMA = {
     'columnName': 'urn',
     'columnType': 'text'
   },
-  'title': {
-    'columnName': 'title',
+  'country': {
+    'columnName': 'country',
+    'columnType': 'text'
+  },
+  'city': {
+    'columnName': 'city',
+    'columnType': 'text'
+  },
+  'location': {
+    'columnName': 'location',
     'columnType': 'text'
   }
 }
@@ -65,23 +73,40 @@ def create_connection(database_file):
 def main():
   print(f"{APP_NAME} {APP_VERSION}")
 
-  if sys.argv[1] != "":
-    if len(str(sys.argv[1])) > 7:
-      database_path = sys.argv[1]
-      print(f"Database path: {database_path}")
+  database_path = './database.sqlite'
+  print(f"Database path: {database_path}")
 
-      removeDatabaseFile(database_path)
-      connection = create_connection(database_path)
-      if connection != None:
-        pass
+  removeDatabaseFile(database_path)
+  connection = create_connection(database_path)
+  if connection != None:
+    pass
 
-    else:
-      print(f"Invalid parameter")
-      print(f"$ python3 {sys.arg[0]} ./database.sqlite")
-      exit(127)
-  else:
-    print(f"$ python3 {sys.arg[0]} ./database.sqlite")
-    exit(126)
+  # Create Table
+  elements = []
+  elements.append("CREATE TABLE IF NOT EXISTS locations (")
+
+  for field_key in COORDINATES_SCHEMA.keys():
+    field_obj = COORDINATES_SCHEMA[field_key]
+
+    field_name = field_obj['columnName']
+    field_type = field_obj['columnType']
+    field = f"{field_name} {field_type}, "
+    elements.append(field)
+
+  elements.append("PRIMARY KEY (longitude,latitude,layertype)")
+  elements.append(") WITHOUT ROWID;")
+
+  query = "".join(elements)
+  query = re.sub(r"\x2c\x20\x29", ")", str(query), flags=re.IGNORECASE)
+
+  try:
+    cursor = connection.cursor()
+    cursor.execute(query)
+  except Error as e:
+    print(e)
+
+  #print(query)
+  return
 
 if __name__ == '__main__':
   main()
