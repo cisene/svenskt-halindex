@@ -6,7 +6,7 @@ Svenskt Hålindex benämns ibland som SHI. Nedan nämns webplatser eller persone
 
 ## Börje Drakenberg
 
-Svenskt hålindex, Institutionen för Rikshålindex publiceras någon gång 1992. Inget material från detta går idag (2022) att hitta på internet.
+Svenskt hålindex, Institutionen för Rikshålindex publiceras någon gång 1992. Inget material från detta går idag (2023) att hitta på internet.
 
 > Halvt på skämt tog skogskonsulent Börje Drakenberg fram *Svenskt hålindex* (SHI). SHI grundar sig på hans och hans kollegors observationer från de många mindre orter där de varit å arbetets vägnar.
 >

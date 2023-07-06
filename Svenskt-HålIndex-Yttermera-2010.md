@@ -1,6 +1,8 @@
-# Svenskt hålindex
+# Svenskt Hålindex (Edition Yttermera 2010)
 
-Ett unikt system för att klassificera svenska hålor.
+
+
+## Ett unikt system för att klassificera svenska hålor.
 
 **Svenskt hålindex** är ett system för att objektivt bestämma hålors kvalitet och få slut på det diffusa och ovetenskapliga snacket om att "det här är en djävla håla". En håla är en ort som kännetecknas av tätortsmiljö med allt vad det innebär av insyn, brist på natur och ont om svängrum, samtidigt som orten saknar det som hör till stadens fördelar såsom allsidigt närings-, affärs- och kulturliv samt stor kontaktyta med andra människor.
 
