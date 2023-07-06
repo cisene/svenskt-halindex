@@ -2,6 +2,8 @@
 
 Svenskt Hålindex benämns ibland som SHI. Nedan nämns webplatser eller personer som varit direkt bidragande eller på annat sätt bidragit till SHI's väl och ve genom tiderna.
 
+Historik har tagits fram genom det lilla material jag kunnat hitta online, samt genom att kolla web server headers för att tidsbestämma olika dokument.
+
 
 
 ## Börje Drakenberg
