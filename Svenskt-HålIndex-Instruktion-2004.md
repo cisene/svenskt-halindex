@@ -43,11 +43,17 @@ Observera att kraven är minimikrav, även större städer uppfyller kraven. Fö
 ## Tilläggspoäng ges för följande förvärrande omständigheter:
 
 +1 ges till alla orter i Småland samt Fagersta och Sjöbo.
+
 +1 om orten har ensidigt näringsliv (bruksort) och jobben hänger på om platschefen och börsklipparna i Stockholm sköter sig. Även nedlagda bruk räknas ty bruksandan består.
+
 +1 ges om flertalet affärer gapar tomma / utlånade till idrottsklubb / pensionärsförening.
+
 +1 ges om det finns en busstation på Stora Torget med en bänk för ortens A-lag.
+
 +1 ges om hålstämningen är utpräglad – de halvfeta öldrickande raggarna kör runt varv efter varv på de få vägarna och suktar på de uttråkade tjejerna (i den mån det finns sådana – i vissa verkligt svåra hålor finns det bara skolflickor och tanter). Alla vuxna går permanent klädda i joggingkläder etc. Denna poäng kan bara ges efter ingående studier men inga problem är för stora för en sann hålindexerare!
+
 +1 ges till orter med utpräglad frikyrklighet eller där ett politiskt parti dominerar.
+
 +1 ges till orter med hög andel fula hus t.ex. sådana som är täckta med eternitplattor eller med planlöst blandade tak- och väggmaterial.
 
 Systemet innehåller också en fripoäng på +/-1 som utdelas efter egen bedömning för att justera slutsummapoängen. Denna poäng ges efter studiet av s.k. signalhål t.ex. om man kan höra det eviga basdunket från den motorburna ungdomens bilar eller förekomst av enstaka stadslika hus i ett gytter av småhus eller förekomst av avklippta gatstumpar från tidigare genomfartsleder. Orter som ligger mycket isolerat har en tendens att utveckla ett eget liv och är därför ofta mindre hålaktiga än motsvarande orter som ligger nära större orter – som då drar till sig ungdomen och de aktiva.

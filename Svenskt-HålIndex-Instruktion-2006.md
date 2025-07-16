@@ -102,14 +102,27 @@ Integrationspoäng: 13p - en förfärlig håla!!!
 
 En något större ort är **Vännäs** i Västerbotten som får:
 
-**-4p** för punkterna 1, 3, 8 och 13. **+2p** för sitt ensidiga näringsliv och hålstämningen.
+**-4p** för punkterna 1, 3, 8 och 13.
+
+**+2p** för sitt ensidiga näringsliv och hålstämningen.
+
 Integrationspoäng **8p** - en riktig håla!!
 
+
+
 **Ockelbo** (som är födelseplatsen för SHI) i Gästrikland får:
- **-6p** för punkterna 1, 3, 6, 7, 8 och 13. **+1p** för hålstämningen. Integrationspoäng **5p** - en måttlig håla!
+ **-6p** för punkterna 1, 3, 6, 7, 8 och 13.
+
+**+1p** för hålstämningen.
+
+Integrationspoäng **5p** - en måttlig håla!
+
+
 
 Större orter t.ex. **Oskarshamn** får:
-**-12p** för punkterna 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14. **+1p** för att orten ligger i Småland.
+**-12p** för punkterna 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14.
+
+**+1p** för att orten ligger i Småland.
 Integreras poängen fås under 0, alltså är allt snack om att Oskarshamn är en riktig håla helt felaktigt och måste på det bestämdaste avvisas.
 
 

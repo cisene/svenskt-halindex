@@ -34,8 +34,11 @@ Observera att kraven är minimikrav, även större städer uppfyller kraven. Fö
 Tilläggspoäng ges för följande förvärrande omständigheter:
 
 +1 ges till alla orter i Småland samt Fagersta och Sjöbo.
+
 +1 om orten har utpräglat ensidigt näringsliv (bruksort) och alla jobb hänger på om platschefen och börsklipparna i Stockholm sköter sig. Även nyligen nedlagda bruk räknas.
+
 +1 ges om hålstämningen är utpräglad - de halvfeta öldrickande raggarna kör runt varv efter varv på de få vägarna och suktar på de uttråkade tjejerna (i mån mån det finns sådana - i vissa verkligt svåra hålor finns det bara skolflickor och tanter). Alla vuxna går permanent klädda i joggingkläder etc. Denna poäng kan bara ges efter ingående studier men inga problem är för stora för en sann hålindexare!
+
 +1 ges till orter med utpräglad frikyrklighet.
 
 Systemet innehåller också fripoäng på +1 som utdelas efter egen bedömning för att justera slutsummapoängen. Denna poäng måste hanteras med stort omdöme!
@@ -43,19 +46,33 @@ Systemet innehåller också fripoäng på +1 som utdelas efter egen bedömning f
 Avdragspoäng ges för följande förmildrande omständigheter:
 
 -1 om orten har högstadieskola.
+
 -1 om orten har gymnasium.
+
 -1 om orten är centralort i kommunen.
+
 -1 om orten är residensstad.
+
 -1 om orten var stad vid kommunreformen 1971.
+
 -1 om orten har systembolag - utlämningsställe godtas ej.
+
 -1 om orten har en tilltalande, stadslik eller gulligt centrum.
+
 -1 om orten har reguljär tågtrafik.
+
 -1 om orten egen flygplats med reguljärflyg.
+
 -1 om orten ligger naturskönt (t.ex. Skinnskatteberg, Arjeplog).
+
 -1 om orten ligger vid kust (Vänern, Mälaren och Vättern räknas).
+
 -1 om orten är välkänd för allmänheten (t.ex. Trosa, Jokkmokk).
+
 -1 om orten har en befolkning över 5000 pers.
+
 -1 om orten har en befolkning över 15000 pers.
+
 -1 om orten har ett rikt kulturliv och/eller någon form av högskoleutbildning (t.ex. Västervik, Härnösand eller Leksand).
 
 Anmärkningar: S.k. sovstäder är svåra att indexera, här finns ännu inget utarbetat system, här får man hofta och känna folksjälen. Vinter- och sommarindex kan vara skilda, många s.k. sommarstäder kan vara rena hålor på vintern (t.ex. Borgholm, Marstrand).

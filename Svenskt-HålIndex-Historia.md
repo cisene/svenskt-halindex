@@ -90,7 +90,7 @@ Länkarna justerade.
 
 Flera andra sajter har haft materialet tillgängligt men de flesta har nu försvunnit, eller refererat till Svenskt Hålindex, några att nämna:
 
-* yttermera.se
-* bjorneborg.org
-* cornucopia.se
+* [yttermera.se](https://yttermera.se/)
+* [bjorneborg.org](https://bjorneborg.org/)
+* [cornucopia.se](https://cornucopia.se/)
 
