@@ -71,7 +71,7 @@ def create_connection(database_file):
 
 
 def main():
-  print(f"{APP_NAME} {APP_VERSION}")
+  #print(f"{APP_NAME} {APP_VERSION}")
 
   database_path = './database.sqlite'
   print(f"Database path: {database_path}")

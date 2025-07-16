@@ -169,7 +169,7 @@ def processContents(contents, connection):
       pass
 
 def main():
-  print(f"{APP_NAME} {APP_VERSION}")
+  #print(f"{APP_NAME} {APP_VERSION}")
 
   database_path = './database.sqlite'
 
